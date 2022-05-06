@@ -1,0 +1,663 @@
+{
+	"0"
+	{
+		"name" "System Memory"
+		"min megabytes"	"0"
+		"max megabytes"	"8000"
+		"mem_level"	"0"
+	}
+	"1"
+	{
+		"name" "System Memory"
+		"min megabytes"	"8000"
+		"max megabytes"	"10000"
+		"mem_level"	"1"
+	}
+	"2"
+	{
+		"name" "System Memory"
+		"min megabytes"	"10000"
+		"max megabytes"	"16000"
+		"mem_level"	"2"
+	}
+	"3"
+	{
+		"name" "System Memory"
+		"min megabytes"	"16000"
+		"max megabytes"	"65535"
+		"mem_level"	"3"
+	}
+	"4"
+	{
+		"name" "Video Memory"
+		"min megabytes"	"0"
+		"max megabytes"	"1500"
+		"gpu_mem_level"	"0"
+	}
+	"5"
+	{
+		"name" "Video Memory"
+		"min megabytes"	"1500"
+		"max megabytes"	"2500"
+		"gpu_mem_level"	"1"
+	}
+	"6"
+	{
+		"name" "Video Memory"
+		"min megabytes"	"2500"
+		"max megabytes"	"3500"
+		"gpu_mem_level"	"2"
+	}
+	"7"
+	{
+		"name" "Video Memory"
+		"min megabytes"	"3500"
+		"max megabytes"	"7500"
+		"gpu_mem_level"	"3"
+	}
+	"8"
+	{
+		"name" "Video Memory"
+		"min megabytes"	"7500"
+		"max megabytes"	"65535"
+		"gpu_mem_level"	"4"
+	}
+	"9"
+	{
+		"name" "CPU Level"
+		"min_phys_processor_count"	"1"
+		"max_phys_processor_count"	"3"
+		"min_log_processor_count"	"1"
+		"max_log_processor_count"	"3"
+		"min_clockspeed"	"0"
+		"max_clockspeed"	"65535"
+		"cpu_level"	"0"
+	}
+	"10"
+	{
+		"name" "CPU Level"
+		"min_phys_processor_count"	"2"
+		"max_phys_processor_count"	"3"
+		"min_log_processor_count"	"4"
+		"max_log_processor_count"	"65535"
+		"min_clockspeed"	"2880"
+		"max_clockspeed"	"65535"
+		"cpu_level"	"1"
+	}
+	"11"
+	{
+		"name" "CPU Level"
+		"min_phys_processor_count"	"4"
+		"max_phys_processor_count"	"7"
+		"min_log_processor_count"	"4"
+		"max_log_processor_count"	"65535"
+		"min_clockspeed"	"2820"
+		"max_clockspeed"	"65535"
+		"cpu_level"	"2"
+	}
+	"12"
+	{
+		"name" "CPU Level"
+		"min_phys_processor_count"	"4"
+		"max_phys_processor_count"	"7"
+		"min_log_processor_count"	"4"
+		"max_log_processor_count"	"65535"
+		"min_clockspeed"	"3380"
+		"max_clockspeed"	"65535"
+		"cpu_level"	"3"
+	}
+	"13"
+	{
+		"name" "CPU Level"
+		"min_phys_processor_count"	"8"
+		"max_phys_processor_count"	"65535"
+		"min_log_processor_count"	"8"
+		"max_log_processor_count"	"65535"
+		"min_clockspeed"	"3180"
+		"max_clockspeed"	"65535"
+		"cpu_level"	"3"
+	}
+	"14"
+	{
+		"name" "NVidia Unknown"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0000"
+		"maxdeviceid"	"0xffff"
+		"gpu_level"	"3"
+	}
+	"15"
+	{
+		"name" "NVIDIA GeForce 8800 GTX"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0191"
+		"maxdeviceid"	"0x0191"
+		"gpu_level"	"0"
+	}
+	"16"
+	{
+		"name" "NVIDIA GeForce 8800 GTS"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0193"
+		"maxdeviceid"	"0x0193"
+		"gpu_level"	"0"
+	}
+	"17"
+	{
+		"name" "NVIDIA GeForce 8800 Ultra"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0194"
+		"maxdeviceid"	"0x0194"
+		"gpu_level"	"0"
+	}
+	"18"
+	{
+		"name" "NVIDIA Tesla C870"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0197"
+		"maxdeviceid"	"0x0197"
+		"gpu_level"	"0"
+	}
+	"19"
+	{
+		"name" "NVIDIA Quadro FX 5600"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x019D"
+		"maxdeviceid"	"0x019D"
+		"gpu_level"	"0"
+	}
+	"20"
+	{
+		"name" "NVIDIA Quadro FX 4600"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x019E"
+		"maxdeviceid"	"0x019E"
+		"gpu_level"	"0"
+	}
+	"21"
+	{
+		"name" "NVIDIA Quadro FX 370"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x040A"
+		"maxdeviceid"	"0x040A"
+		"gpu_level"	"0"
+	}
+	"22"
+	{
+		"name" "NVIDIA Quadro FX 1600M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x040D"
+		"maxdeviceid"	"0x040D"
+		"gpu_level"	"0"
+	}
+	"23"
+	{
+		"name" "NVIDIA Quadro FX 570"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x040E"
+		"maxdeviceid"	"0x040E"
+		"gpu_level"	"0"
+	}
+	"24"
+	{
+		"name" "NVIDIA Quadro FX 1700"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x040F"
+		"maxdeviceid"	"0x040F"
+		"gpu_level"	"0"
+	}
+	"25"
+	{
+		"name" "NVIDIA GeForce GT 330"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0410"
+		"maxdeviceid"	"0x0410"
+		"gpu_level"	"0"
+	}
+	"26"
+	{
+		"name" "NVIDIA GeForce 9400 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x042C"
+		"maxdeviceid"	"0x042C"
+		"gpu_level"	"0"
+	}
+	"27"
+	{
+		"name" "NVIDIA Quadro NVS 290"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x042F"
+		"maxdeviceid"	"0x042F"
+		"gpu_level"	"0"
+	}
+	"28"
+	{
+		"name" "NVIDIA GeForce GTX 295"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05E0"
+		"maxdeviceid"	"0x05E0"
+		"gpu_level"	"0"
+	}
+	"29"
+	{
+		"name" "NVIDIA GeForce GTX 280"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05E1"
+		"maxdeviceid"	"0x05E1"
+		"gpu_level"	"0"
+	}
+	"30"
+	{
+		"name" "NVIDIA GeForce GTX 260"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05E2"
+		"maxdeviceid"	"0x05E2"
+		"gpu_level"	"0"
+	}
+	"31"
+	{
+		"name" "NVIDIA GeForce GTX 285"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05E3"
+		"maxdeviceid"	"0x05E3"
+		"gpu_level"	"0"
+	}
+	"32"
+	{
+		"name" "NVIDIA GeForce GTX 275"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05E6"
+		"maxdeviceid"	"0x05E6"
+		"gpu_level"	"0"
+	}
+	"33"
+	{
+		"name" "NVIDIA Tesla C1060"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05E7"
+		"maxdeviceid"	"0x05E7"
+		"gpu_level"	"0"
+	}
+	"34"
+	{
+		"name" "NVIDIA Tesla T10 Processor"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0595"
+		"maxdeviceid"	"0x0595"
+		"gpu_level"	"0"
+	}
+	"35"
+	{
+		"name" "NVIDIA Tesla C1060"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x066A"
+		"maxdeviceid"	"0x066A"
+		"gpu_level"	"0"
+	}
+	"36"
+	{
+		"name" "NVIDIA Tesla T10 Processor"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x068F"
+		"maxdeviceid"	"0x068F"
+		"gpu_level"	"0"
+	}
+	"37"
+	{
+		"name" "NVIDIA Tesla M1060"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0697"
+		"maxdeviceid"	"0x0697"
+		"gpu_level"	"0"
+	}
+	"38"
+	{
+		"name" "NVIDIA Tesla M1060"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0714"
+		"maxdeviceid"	"0x0714"
+		"gpu_level"	"0"
+	}
+	"39"
+	{
+		"name" "NVIDIA Tesla M1060"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0743"
+		"maxdeviceid"	"0x0743"
+		"gpu_level"	"0"
+	}
+	"40"
+	{
+		"name" "NVIDIA GeForce GTX 260"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05EA"
+		"maxdeviceid"	"0x05EA"
+		"gpu_level"	"0"
+	}
+	"41"
+	{
+		"name" "NVIDIA GeForce GTX 295"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05EB"
+		"maxdeviceid"	"0x05EB"
+		"gpu_level"	"0"
+	}
+	"42"
+	{
+		"name" "NVIDIA Quadro CX"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05F9"
+		"maxdeviceid"	"0x05F9"
+		"gpu_level"	"0"
+	}
+	"43"
+	{
+		"name" "NVIDIA Quadro FX 5800"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05FD"
+		"maxdeviceid"	"0x05FD"
+		"gpu_level"	"0"
+	}
+	"44"
+	{
+		"name" "NVIDIA Quadro FX 4800"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05FE"
+		"maxdeviceid"	"0x05FE"
+		"gpu_level"	"0"
+	}
+	"45"
+	{
+		"name" "NVIDIA Quadro FX 3800"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x05FF"
+		"maxdeviceid"	"0x05FF"
+		"gpu_level"	"0"
+	}
+	"46"
+	{
+		"name" "NVIDIA GeForce 8800 GTS 512"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0600"
+		"maxdeviceid"	"0x0600"
+		"gpu_level"	"0"
+	}
+	"47"
+	{
+		"name" "NVIDIA GeForce 9800 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0601"
+		"maxdeviceid"	"0x0601"
+		"gpu_level"	"0"
+	}
+	"48"
+	{
+		"name" "NVIDIA GeForce 8800 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0602"
+		"maxdeviceid"	"0x0602"
+		"gpu_level"	"0"
+	}
+	"49"
+	{
+		"name" "NVIDIA GeForce GT 230"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0603"
+		"maxdeviceid"	"0x0603"
+		"gpu_level"	"0"
+	}
+	"50"
+	{
+		"name" "NVIDIA GeForce 9800 GX2"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0604"
+		"maxdeviceid"	"0x0604"
+		"gpu_level"	"0"
+	}
+	"51"
+	{
+		"name" "NVIDIA GeForce 9800 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0605"
+		"maxdeviceid"	"0x0605"
+		"gpu_level"	"0"
+	}
+	"52"
+	{
+		"name" "NVIDIA GeForce 8800 GS"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0606"
+		"maxdeviceid"	"0x0606"
+		"gpu_level"	"0"
+	}
+	"53"
+	{
+		"name" "NVIDIA GeForce GTS 240"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0607"
+		"maxdeviceid"	"0x0607"
+		"gpu_level"	"0"
+	}
+	"54"
+	{
+		"name" "NVIDIA GeForce 9600 GSO"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0610"
+		"maxdeviceid"	"0x0610"
+		"gpu_level"	"0"
+	}
+	"55"
+	{
+		"name" "NVIDIA GeForce 8800 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0611"
+		"maxdeviceid"	"0x0611"
+		"gpu_level"	"0"
+	}
+	"56"
+	{
+		"name" "NVIDIA GeForce 9800 GTX/9800 GTX+"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0612"
+		"maxdeviceid"	"0x0612"
+		"gpu_level"	"0"
+	}
+	"57"
+	{
+		"name" "NVIDIA GeForce 9800 GTX+"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0613"
+		"maxdeviceid"	"0x0613"
+		"gpu_level"	"0"
+	}
+	"58"
+	{
+		"name" "NVIDIA GeForce 9800 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0614"
+		"maxdeviceid"	"0x0614"
+		"gpu_level"	"0"
+	}
+	"59"
+	{
+		"name" "NVIDIA GeForce GTS 250"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0615"
+		"maxdeviceid"	"0x0615"
+		"gpu_level"	"0"
+	}
+	"60"
+	{
+		"name" "NVIDIA Quadro FX 4700 X2"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0619"
+		"maxdeviceid"	"0x0619"
+		"gpu_level"	"0"
+	}
+	"61"
+	{
+		"name" "NVIDIA Quadro FX 3700"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x061A"
+		"maxdeviceid"	"0x061A"
+		"gpu_level"	"0"
+	}
+	"62"
+	{
+		"name" "NVIDIA Quadro VX 200"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x061B"
+		"maxdeviceid"	"0x061B"
+		"gpu_level"	"0"
+	}
+	"63"
+	{
+		"name" "NVIDIA Quadro FX 3600M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x061C"
+		"maxdeviceid"	"0x061C"
+		"gpu_level"	"0"
+	}
+	"64"
+	{
+		"name" "NVIDIA Quadro FX 2800M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x061D"
+		"maxdeviceid"	"0x061D"
+		"gpu_level"	"0"
+	}
+	"65"
+	{
+		"name" "NVIDIA GeForce GT 230"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0621"
+		"maxdeviceid"	"0x0621"
+		"gpu_level"	"0"
+	}
+	"66"
+	{
+		"name" "NVIDIA GeForce 9600 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0622"
+		"maxdeviceid"	"0x0622"
+		"gpu_level"	"0"
+	}
+	"67"
+	{
+		"name" "NVIDIA GeForce 9600 GS"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0623"
+		"maxdeviceid"	"0x0623"
+		"gpu_level"	"0"
+	}
+	"68"
+	{
+		"name" "NVIDIA GeForce 9600 GSO 512"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0625"
+		"maxdeviceid"	"0x0625"
+		"gpu_level"	"0"
+	}
+	"69"
+	{
+		"name" "NVIDIA GeForce GT 130"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0626"
+		"maxdeviceid"	"0x0626"
+		"gpu_level"	"0"
+	}
+	"70"
+	{
+		"name" "NVIDIA GeForce GT 140"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0627"
+		"maxdeviceid"	"0x0627"
+		"gpu_level"	"0"
+	}
+	"71"
+	{
+		"name" "NVIDIA GeForce 9600 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x062D"
+		"maxdeviceid"	"0x062D"
+		"gpu_level"	"0"
+	}
+	"72"
+	{
+		"name" "NVIDIA GeForce 9600 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x062E"
+		"maxdeviceid"	"0x062E"
+		"gpu_level"	"0"
+	}
+	"73"
+	{
+		"name" "NVIDIA GeForce 9600 GSO"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0635"
+		"maxdeviceid"	"0x0635"
+		"gpu_level"	"0"
+	}
+	"74"
+	{
+		"name" "NVIDIA GeForce 9600 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0637"
+		"maxdeviceid"	"0x0637"
+		"gpu_level"	"0"
+	}
+	"75"
+	{
+		"name" "NVIDIA Quadro FX 1800"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0638"
+		"maxdeviceid"	"0x0638"
+		"gpu_level"	"0"
+	}
+	"76"
+	{
+		"name" "NVIDIA GeForce 9500 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0640"
+		"maxdeviceid"	"0x0640"
+		"gpu_level"	"0"
+	}
+	"77"
+	{
+		"name" "NVIDIA GeForce 9400 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0641"
+		"maxdeviceid"	"0x0641"
+		"gpu_level"	"0"
+	}
+	"78"
+	{
+		"name" "NVIDIA GeForce 9500 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0643"
+		"maxdeviceid"	"0x0643"
+		"gpu_level"	"0"
+	}
+	"79"
+	{
+		"name" "NVIDIA GeForce 9500 GS"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0644"
+		"maxdeviceid"	"0x0644"
+		"gpu_level"	"0"
+	}
+	"80"
+	{
+		"name" "NVIDIA GeForce 9500 GS"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0645"
+		"maxdeviceid"	"0x0645"
+		"gpu_level"	"0"
+	}
+	"81"
+	{
+		"name" "NVIDIA GeForce GT 120"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0646"
+		"maxdeviceid"	"0x0646"
+		"gpu_level"	"0"
+	}
