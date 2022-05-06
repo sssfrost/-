@@ -1,0 +1,3192 @@
+"162"
+	{
+		"name" "NVIDIA Quadro 2000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DD8"
+		"maxdeviceid"	"0x0DD8"
+		"gpu_level"	"0"
+	}
+	"163"
+	{
+		"name" "NVIDIA Quadro 2000D"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0914"
+		"maxdeviceid"	"0x0914"
+		"gpu_level"	"0"
+	}
+	"164"
+	{
+		"name" "NVIDIA GeForce GT 440"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DE0"
+		"maxdeviceid"	"0x0DE0"
+		"gpu_level"	"0"
+	}
+	"165"
+	{
+		"name" "NVIDIA GeForce GT 430"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DE1"
+		"maxdeviceid"	"0x0DE1"
+		"gpu_level"	"0"
+	}
+	"166"
+	{
+		"name" "NVIDIA GeForce GT 420"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DE2"
+		"maxdeviceid"	"0x0DE2"
+		"gpu_level"	"0"
+	}
+	"167"
+	{
+		"name" "NVIDIA GeForce GT 520"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DE4"
+		"maxdeviceid"	"0x0DE4"
+		"gpu_level"	"0"
+	}
+	"168"
+	{
+		"name" "NVIDIA GeForce GT 530"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DE5"
+		"maxdeviceid"	"0x0DE5"
+		"gpu_level"	"0"
+	}
+	"169"
+	{
+		"name" "NVIDIA GeForce GT 610"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DE7"
+		"maxdeviceid"	"0x0DE7"
+		"gpu_level"	"1"
+	}
+	"170"
+	{
+		"name" "NVIDIA Quadro 600"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DF8"
+		"maxdeviceid"	"0x0DF8"
+		"gpu_level"	"0"
+	}
+	"171"
+	{
+		"name" "NVIDIA Quadro 500M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DF9"
+		"maxdeviceid"	"0x0DF9"
+		"gpu_level"	"0"
+	}
+	"172"
+	{
+		"name" "NVIDIA Quadro 1000M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DFA"
+		"maxdeviceid"	"0x0DFA"
+		"gpu_level"	"0"
+	}
+	"173"
+	{
+		"name" "NVIDIA GeForce GTX 460"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0E22"
+		"maxdeviceid"	"0x0E22"
+		"gpu_level"	"1"
+	}
+	"174"
+	{
+		"name" "NVIDIA GeForce GTX 460 SE"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0E23"
+		"maxdeviceid"	"0x0E23"
+		"gpu_level"	"1"
+	}
+	"175"
+	{
+		"name" "NVIDIA GeForce GTX 460"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0E24"
+		"maxdeviceid"	"0x0E24"
+		"gpu_level"	"1"
+	}
+	"176"
+	{
+		"name" "NVIDIA Quadro 3000M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0E3A"
+		"maxdeviceid"	"0x0E3A"
+		"gpu_level"	"0"
+	}
+	"177"
+	{
+		"name" "NVIDIA Quadro 4000M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0E3B"
+		"maxdeviceid"	"0x0E3B"
+		"gpu_level"	"0"
+	}
+	"178"
+	{
+		"name" "NVIDIA GeForce GT 630"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0F00"
+		"maxdeviceid"	"0x0F00"
+		"gpu_level"	"1"
+	}
+	"179"
+	{
+		"name" "NVIDIA GeForce GT 620"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0F01"
+		"maxdeviceid"	"0x0F01"
+		"gpu_level"	"1"
+	}
+	"180"
+	{
+		"name" "NVIDIA GeForce GT 640"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FC0"
+		"maxdeviceid"	"0x0FC0"
+		"gpu_level"	"1"
+	}
+	"181"
+	{
+		"name" "NVIDIA GeForce GT 640"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FC1"
+		"maxdeviceid"	"0x0FC1"
+		"gpu_level"	"1"
+	}
+	"182"
+	{
+		"name" "NVIDIA GeForce GT 630"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FC2"
+		"maxdeviceid"	"0x0FC2"
+		"gpu_level"	"1"
+	}
+	"183"
+	{
+		"name" "NVIDIA GeForce GTX 650"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FC6"
+		"maxdeviceid"	"0x0FC6"
+		"gpu_level"	"1"
+	}
+	"184"
+	{
+		"name" "NVIDIA GRID K340"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FEF"
+		"maxdeviceid"	"0x0FEF"
+		"gpu_level"	"0"
+	}
+	"185"
+	{
+		"name" "NVIDIA GRID K1"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FF2"
+		"maxdeviceid"	"0x0FF2"
+		"gpu_level"	"0"
+	}
+	"186"
+	{
+		"name" "NVIDIA Quadro K2000D"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FF9"
+		"maxdeviceid"	"0x0FF9"
+		"gpu_level"	"0"
+	}
+	"187"
+	{
+		"name" "NVIDIA Quadro K600"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FFA"
+		"maxdeviceid"	"0x0FFA"
+		"gpu_level"	"0"
+	}
+	"188"
+	{
+		"name" "NVIDIA NVS 510"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FFD"
+		"maxdeviceid"	"0x0FFD"
+		"gpu_level"	"0"
+	}
+	"189"
+	{
+		"name" "NVIDIA Quadro K2000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FFE"
+		"maxdeviceid"	"0x0FFE"
+		"gpu_level"	"0"
+	}
+	"190"
+	{
+		"name" "NVIDIA Quadro 410"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0FFF"
+		"maxdeviceid"	"0x0FFF"
+		"gpu_level"	"0"
+	}
+	"191"
+	{
+		"name" "NVIDIA GeForce GTX 780"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1004"
+		"maxdeviceid"	"0x1004"
+		"gpu_level"	"2"
+	}
+	"192"
+	{
+		"name" "NVIDIA GeForce GTX TITAN"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1005"
+		"maxdeviceid"	"0x1005"
+		"gpu_level"	"2"
+	}
+	"193"
+	{
+		"name" "NVIDIA GeForce GTX 780 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x100A"
+		"maxdeviceid"	"0x100A"
+		"gpu_level"	"3"
+	}
+	"194"
+	{
+		"name" "NVIDIA Tesla K20Xm"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1021"
+		"maxdeviceid"	"0x1021"
+		"gpu_level"	"0"
+	}
+	"195"
+	{
+		"name" "NVIDIA Tesla K20c"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1022"
+		"maxdeviceid"	"0x1022"
+		"gpu_level"	"0"
+	}
+	"196"
+	{
+		"name" "NVIDIA Tesla K20s"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1026"
+		"maxdeviceid"	"0x1026"
+		"gpu_level"	"0"
+	}
+	"197"
+	{
+		"name" "NVIDIA Tesla K20m"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1028"
+		"maxdeviceid"	"0x1028"
+		"gpu_level"	"0"
+	}
+	"198"
+	{
+		"name" "NVIDIA Quadro K6000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x103A"
+		"maxdeviceid"	"0x103A"
+		"gpu_level"	"0"
+	}
+	"199"
+	{
+		"name" "NVIDIA GeForce GT 520"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1040"
+		"maxdeviceid"	"0x1040"
+		"gpu_level"	"1"
+	}
+	"200"
+	{
+		"name" "NVIDIA GeForce 510"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1042"
+		"maxdeviceid"	"0x1042"
+		"gpu_level"	"1"
+	}
+	"201"
+	{
+		"name" "NVIDIA GeForce 605"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1048"
+		"maxdeviceid"	"0x1048"
+		"gpu_level"	"1"
+	}
+	"202"
+	{
+		"name" "NVIDIA GeForce GT 620"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1049"
+		"maxdeviceid"	"0x1049"
+		"gpu_level"	"1"
+	}
+	"203"
+	{
+		"name" "NVIDIA GeForce GT 610"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x104A"
+		"maxdeviceid"	"0x104A"
+		"gpu_level"	"1"
+	}
+	"204"
+	{
+		"name" "NVIDIA GeForce GT 625 (OEM)"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x104B"
+		"maxdeviceid"	"0x104B"
+		"gpu_level"	"1"
+	}
+	"205"
+	{
+		"name" "NVIDIA GeForce GT 520M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1050"
+		"maxdeviceid"	"0x1050"
+		"gpu_level"	"1"
+	}
+	"206"
+	{
+		"name" "NVIDIA NVS 315"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x107C"
+		"maxdeviceid"	"0x107C"
+		"gpu_level"	"0"
+	}
+	"207"
+	{
+		"name" "NVIDIA NVS 310"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x107D"
+		"maxdeviceid"	"0x107D"
+		"gpu_level"	"0"
+	}
+	"208"
+	{
+		"name" "NVIDIA GeForce GTX 580"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1080"
+		"maxdeviceid"	"0x1080"
+		"gpu_level"	"1"
+	}
+	"209"
+	{
+		"name" "NVIDIA GeForce GTX 570"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1081"
+		"maxdeviceid"	"0x1081"
+		"gpu_level"	"1"
+	}
+	"210"
+	{
+		"name" "NVIDIA GeForce GTX 560 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1082"
+		"maxdeviceid"	"0x1082"
+		"gpu_level"	"1"
+	}
+	"211"
+	{
+		"name" "NVIDIA GeForce GTX 560"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1084"
+		"maxdeviceid"	"0x1084"
+		"gpu_level"	"1"
+	}
+	"212"
+	{
+		"name" "NVIDIA GeForce GTX 570"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1086"
+		"maxdeviceid"	"0x1086"
+		"gpu_level"	"1"
+	}
+	"213"
+	{
+		"name" "NVIDIA GeForce GTX 560 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1087"
+		"maxdeviceid"	"0x1087"
+		"gpu_level"	"1"
+	}
+	"214"
+	{
+		"name" "NVIDIA GeForce GTX 590"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1088"
+		"maxdeviceid"	"0x1088"
+		"gpu_level"	"2"
+	}
+	"215"
+	{
+		"name" "NVIDIA GeForce GTX 580"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1089"
+		"maxdeviceid"	"0x1089"
+		"gpu_level"	"2"
+	}
+	"216"
+	{
+		"name" "NVIDIA GeForce GTX 580"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x108B"
+		"maxdeviceid"	"0x108B"
+		"gpu_level"	"2"
+	}
+	"217"
+	{
+		"name" "NVIDIA Tesla M2090"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1091"
+		"maxdeviceid"	"0x1091"
+		"gpu_level"	"0"
+	}
+	"218"
+	{
+		"name" "NVIDIA Tesla X2090"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x088E"
+		"maxdeviceid"	"0x088E"
+		"gpu_level"	"0"
+	}
+	"219"
+	{
+		"name" "NVIDIA Tesla X2090"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0891"
+		"maxdeviceid"	"0x0891"
+		"gpu_level"	"0"
+	}
+	"220"
+	{
+		"name" "NVIDIA Tesla M2075"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1094"
+		"maxdeviceid"	"0x1094"
+		"gpu_level"	"0"
+	}
+	"221"
+	{
+		"name" "NVIDIA Tesla M2075"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0888"
+		"maxdeviceid"	"0x0888"
+		"gpu_level"	"0"
+	}
+	"222"
+	{
+		"name" "NVIDIA Tesla C2075"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1096"
+		"maxdeviceid"	"0x1096"
+		"gpu_level"	"0"
+	}
+	"223"
+	{
+		"name" "NVIDIA Tesla C2075"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0910"
+		"maxdeviceid"	"0x0910"
+		"gpu_level"	"0"
+	}
+	"224"
+	{
+		"name" "NVIDIA Tesla C2050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0911"
+		"maxdeviceid"	"0x0911"
+		"gpu_level"	"0"
+	}
+	"225"
+	{
+		"name" "NVIDIA Quadro 7000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x109B"
+		"maxdeviceid"	"0x109B"
+		"gpu_level"	"0"
+	}
+	"226"
+	{
+		"name" "NVIDIA Quadro 7000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0918"
+		"maxdeviceid"	"0x0918"
+		"gpu_level"	"0"
+	}
+	"227"
+	{
+		"name" "NVIDIA GeForce 9300 GS"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x10C0"
+		"maxdeviceid"	"0x10C0"
+		"gpu_level"	"0"
+	}
+	"228"
+	{
+		"name" "NVIDIA GeForce 405"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x10C5"
+		"maxdeviceid"	"0x10C5"
+		"gpu_level"	"0"
+	}
+	"229"
+	{
+		"name" "NVIDIA NVS 300"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x10D8"
+		"maxdeviceid"	"0x10D8"
+		"gpu_level"	"0"
+	}
+	"230"
+	{
+		"name" "NVIDIA GeForce GTX 680"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1180"
+		"maxdeviceid"	"0x1180"
+		"gpu_level"	"2"
+	}
+	"231"
+	{
+		"name" "NVIDIA GeForce GTX 660 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1183"
+		"maxdeviceid"	"0x1183"
+		"gpu_level"	"2"
+	}
+	"232"
+	{
+		"name" "NVIDIA GeForce GTX 770"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1184"
+		"maxdeviceid"	"0x1184"
+		"gpu_level"	"2"
+	}
+	"233"
+	{
+		"name" "NVIDIA GeForce GTX 660"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1185"
+		"maxdeviceid"	"0x1185"
+		"gpu_level"	"1"
+	}
+	"234"
+	{
+		"name" "NVIDIA GeForce GTX 760"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1187"
+		"maxdeviceid"	"0x1187"
+		"gpu_level"	"2"
+	}
+	"235"
+	{
+		"name" "NVIDIA GeForce GTX 690"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1188"
+		"maxdeviceid"	"0x1188"
+		"gpu_level"	"2"
+	}
+	"236"
+	{
+		"name" "NVIDIA GeForce GTX 670"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1189"
+		"maxdeviceid"	"0x1189"
+		"gpu_level"	"2"
+	}
+	"237"
+	{
+		"name" "NVIDIA GeForce GTX 760 (192-bit)"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x118E"
+		"maxdeviceid"	"0x118E"
+		"gpu_level"	"2"
+	}
+	"238"
+	{
+		"name" "NVIDIA Tesla K10"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x118F"
+		"maxdeviceid"	"0x118F"
+		"gpu_level"	"2"
+	}
+	"239"
+	{
+		"name" "NVIDIA GeForce GTX 760 Ti OEM"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1193"
+		"maxdeviceid"	"0x1193"
+		"gpu_level"	"2"
+	}
+	"240"
+	{
+		"name" "NVIDIA Quadro K5000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11BA"
+		"maxdeviceid"	"0x11BA"
+		"gpu_level"	"0"
+	}
+	"241"
+	{
+		"name" "NVIDIA Quadro K5000M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11BC"
+		"maxdeviceid"	"0x11BC"
+		"gpu_level"	"0"
+	}
+	"242"
+	{
+		"name" "NVIDIA Quadro K4000M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11BD"
+		"maxdeviceid"	"0x11BD"
+		"gpu_level"	"0"
+	}
+	"243"
+	{
+		"name" "NVIDIA Quadro K3000M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11BE"
+		"maxdeviceid"	"0x11BE"
+		"gpu_level"	"0"
+	}
+	"244"
+	{
+		"name" "NVIDIA GRID K2"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11BF"
+		"maxdeviceid"	"0x11BF"
+		"gpu_level"	"0"
+	}
+	"245"
+	{
+		"name" "NVIDIA GeForce GTX 660"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11C0"
+		"maxdeviceid"	"0x11C0"
+		"gpu_level"	"1"
+	}
+	"246"
+	{
+		"name" "NVIDIA GeForce GTX 650 Ti BOOST"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11C2"
+		"maxdeviceid"	"0x11C2"
+		"gpu_level"	"1"
+	}
+	"247"
+	{
+		"name" "NVIDIA GeForce GTX 650 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11C3"
+		"maxdeviceid"	"0x11C3"
+		"gpu_level"	"1"
+	}
+	"248"
+	{
+		"name" "NVIDIA GeForce GTX 645"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11C4"
+		"maxdeviceid"	"0x11C4"
+		"gpu_level"	"1"
+	}
+	"249"
+	{
+		"name" "NVIDIA GeForce GTX 650 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11C6"
+		"maxdeviceid"	"0x11C6"
+		"gpu_level"	"1"
+	}
+	"250"
+	{
+		"name" "NVIDIA GeForce GTX 650"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11C8"
+		"maxdeviceid"	"0x11C8"
+		"gpu_level"	"1"
+	}
+	"251"
+	{
+		"name" "NVIDIA Quadro K4000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x11FA"
+		"maxdeviceid"	"0x11FA"
+		"gpu_level"	"0"
+	}
+	"252"
+	{
+		"name" "NVIDIA GeForce GTX 560 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1200"
+		"maxdeviceid"	"0x1200"
+		"gpu_level"	"1"
+	}
+	"253"
+	{
+		"name" "NVIDIA GeForce GTX 560"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1201"
+		"maxdeviceid"	"0x1201"
+		"gpu_level"	"1"
+	}
+	"254"
+	{
+		"name" "NVIDIA GeForce GTX 460 v2"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1205"
+		"maxdeviceid"	"0x1205"
+		"gpu_level"	"1"
+	}
+	"255"
+	{
+		"name" "NVIDIA GeForce  GTX 555"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1206"
+		"maxdeviceid"	"0x1206"
+		"gpu_level"	"1"
+	}
+	"256"
+	{
+		"name" "NVIDIA GeForce GT 645"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1207"
+		"maxdeviceid"	"0x1207"
+		"gpu_level"	"1"
+	}
+	"257"
+	{
+		"name" "NVIDIA GeForce GTX 560 SE"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1208"
+		"maxdeviceid"	"0x1208"
+		"gpu_level"	"1"
+	}
+	"258"
+	{
+		"name" "NVIDIA GeForce GT 545"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1241"
+		"maxdeviceid"	"0x1241"
+		"gpu_level"	"1"
+	}
+	"259"
+	{
+		"name" "NVIDIA GeForce GT 545"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1243"
+		"maxdeviceid"	"0x1243"
+		"gpu_level"	"1"
+	}
+	"260"
+	{
+		"name" "NVIDIA GeForce GTX 550 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1244"
+		"maxdeviceid"	"0x1244"
+		"gpu_level"	"1"
+	}
+	"261"
+	{
+		"name" "NVIDIA GeForce GTS 450"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1245"
+		"maxdeviceid"	"0x1245"
+		"gpu_level"	"1"
+	}
+	"262"
+	{
+		"name" "NVIDIA GeForce GTS 450"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1249"
+		"maxdeviceid"	"0x1249"
+		"gpu_level"	"1"
+	}
+	"263"
+	{
+		"name" "NVIDIA GeForce GT 640"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x124B"
+		"maxdeviceid"	"0x124B"
+		"gpu_level"	"1"
+	}
+	"264"
+	{
+		"name" "NVIDIA GeForce GT 635"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1280"
+		"maxdeviceid"	"0x1280"
+		"gpu_level"	"1"
+	}
+	"265"
+	{
+		"name" "NVIDIA GeForce GT 710"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1281"
+		"maxdeviceid"	"0x1281"
+		"gpu_level"	"0"
+	}
+	"266"
+	{
+		"name" "NVIDIA GeForce GT 640"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1282"
+		"maxdeviceid"	"0x1282"
+		"gpu_level"	"1"
+	}
+	"267"
+	{
+		"name" "NVIDIA GeForce GT 630"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1284"
+		"maxdeviceid"	"0x1284"
+		"gpu_level"	"1"
+	}
+	"268"
+	{
+		"name" "NVIDIA GeForce GT 730M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1290"
+		"maxdeviceid"	"0x1290"
+		"gpu_level"	"0"
+	}
+	"269"
+	{
+		"name" "NVIDIA GeForce GTX 750 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1380"
+		"maxdeviceid"	"0x1380"
+		"gpu_level"	"1"
+	}
+	"270"
+	{
+		"name" "NVIDIA GeForce MX 150"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1d10"
+		"maxdeviceid"	"0x1d10"
+		"gpu_level"	"1"
+	}
+	"271"
+	{
+		"name" "NVIDIA GeForce MX 150"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1d12"
+		"maxdeviceid"	"0x1d12"
+		"gpu_level"	"1"
+	}
+	"272"
+	{
+		"name" "NVIDIA GeForce GT 720M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1298"
+		"maxdeviceid"	"0x1298"
+		"gpu_level"	"0"
+	}
+	"273"
+	{
+		"name" "NVIDIA GeForce GT 730"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1287"
+		"maxdeviceid"	"0x1287"
+		"gpu_level"	"0"
+	}
+	"274"
+	{
+		"name" "NVIDIA GeForce GT 730"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0fc9"
+		"maxdeviceid"	"0x0fc9"
+		"gpu_level"	"0"
+	}
+	"275"
+	{
+		"name" "NVIDIA GeForce GT 730"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0f02"
+		"maxdeviceid"	"0x0f02"
+		"gpu_level"	"0"
+	}
+	"276"
+	{
+		"name" "NVIDIA GeForce GT 730"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0f06"
+		"maxdeviceid"	"0x0f06"
+		"gpu_level"	"0"
+	}
+	"277"
+	{
+		"name" "NVIDIA GeForce GTX 750"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1381"
+		"maxdeviceid"	"0x1381"
+		"gpu_level"	"1"
+	}
+	"278"
+	{
+		"name" "NVIDIA GeForce GTX 750"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1407"
+		"maxdeviceid"	"0x1407"
+		"gpu_level"	"1"
+	}
+	"279"
+	{
+		"name" "NVIDIA GeForce 840M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1393"
+		"maxdeviceid"	"0x1393"
+		"gpu_level"	"0"
+	}
+	"280"
+	{
+		"name" "NVIDIA GeForce GTX 860M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1392"
+		"maxdeviceid"	"0x1392"
+		"gpu_level"	"1"
+	}
+	"281"
+	{
+		"name" "NVIDIA GeForce GTX 860M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x119a"
+		"maxdeviceid"	"0x119a"
+		"gpu_level"	"1"
+	}
+	"282"
+	{
+		"name" "NVIDIA GeForce 920M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1299"
+		"maxdeviceid"	"0x1299"
+		"gpu_level"	"0"
+	}
+	"283"
+	{
+		"name" "NVIDIA GeForce 940M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1347"
+		"maxdeviceid"	"0x1347"
+		"gpu_level"	"0"
+	}
+	"284"
+	{
+		"name" "NVIDIA GeForce 940M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x139c"
+		"maxdeviceid"	"0x139c"
+		"gpu_level"	"0"
+	}
+	"285"
+	{
+		"name" "NVIDIA GeForce GTX 950M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x139a"
+		"maxdeviceid"	"0x139a"
+		"gpu_level"	"1"
+	}
+	"286"
+	{
+		"name" "NVIDIA GeForce GTX 960M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x139b"
+		"maxdeviceid"	"0x139b"
+		"gpu_level"	"1"
+	}
+	"287"
+	{
+		"name" "NVIDIA GeForce GTX 965M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x13d9"
+		"maxdeviceid"	"0x13d9"
+		"gpu_level"	"1"
+	}
+	"288"
+	{
+		"name" "NVIDIA GeForce GTX 965M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1427"
+		"maxdeviceid"	"0x1427"
+		"gpu_level"	"1"
+	}
+	"289"
+	{
+		"name" "NVIDIA GeForce GTX 965M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1619"
+		"maxdeviceid"	"0x1619"
+		"gpu_level"	"1"
+	}
+	"290"
+	{
+		"name" "NVIDIA GeForce GTX 965M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1667"
+		"maxdeviceid"	"0x1667"
+		"gpu_level"	"1"
+	}
+	"291"
+	{
+		"name" "NVIDIA GeForce GTX 970M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x13d8"
+		"maxdeviceid"	"0x13d8"
+		"gpu_level"	"1"
+	}
+	"292"
+	{
+		"name" "NVIDIA GeForce GTX 970M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1618"
+		"maxdeviceid"	"0x1618"
+		"gpu_level"	"1"
+	}
+	"293"
+	{
+		"name" "NVIDIA GeForce GTX 980M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1617"
+		"maxdeviceid"	"0x1617"
+		"gpu_level"	"2"
+	}
+	"294"
+	{
+		"name" "NVIDIA GeForce GTX 980M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x13d7"
+		"maxdeviceid"	"0x13d7"
+		"gpu_level"	"2"
+	}
+	"295"
+	{
+		"name" "NVIDIA GeForce GTX 950"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1402"
+		"maxdeviceid"	"0x1402"
+		"gpu_level"	"2"
+	}
+	"296"
+	{
+		"name" "NVIDIA GeForce GTX 960"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1401"
+		"maxdeviceid"	"0x1401"
+		"gpu_level"	"2"
+	}
+	"297"
+	{
+		"name" "NVIDIA GeForce GTX 960"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1406"
+		"maxdeviceid"	"0x1406"
+		"gpu_level"	"2"
+	}
+	"298"
+	{
+		"name" "NVIDIA GeForce GTX 970"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x13c2"
+		"maxdeviceid"	"0x13c2"
+		"gpu_level"	"2"
+	}
+	"299"
+	{
+		"name" "NVIDIA GeForce GTX 980"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x13c0"
+		"maxdeviceid"	"0x13c0"
+		"gpu_level"	"3"
+	}
+	"300"
+	{
+		"name" "NVIDIA GeForce GTX 980 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x17c8"
+		"maxdeviceid"	"0x17c8"
+		"gpu_level"	"3"
+	}
+	"301"
+	{
+		"name" "NVIDIA GeForce GTX TITAN Black"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x100c"
+		"maxdeviceid"	"0x100c"
+		"gpu_level"	"2"
+	}
+	"302"
+	{
+		"name" "NVIDIA GeForce GTX TITAN X"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x17c2"
+		"maxdeviceid"	"0x17c2"
+		"gpu_level"	"3"
+	}
+	"303"
+	{
+		"name" "NVIDIA GeForce GT 1030"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1d01"
+		"maxdeviceid"	"0x1d01"
+		"gpu_level"	"1"
+	}
+	"304"
+	{
+		"name" "NVIDIA GeForce GTX 1050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1c81"
+		"maxdeviceid"	"0x1c81"
+		"gpu_level"	"1"
+	}
+	"305"
+	{
+		"name" "NVIDIA GeForce GTX 1050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1c83"
+		"maxdeviceid"	"0x1c83"
+		"gpu_level"	"1"
+	}
+	"306"
+	{
+		"name" "NVIDIA GeForce GTX 1050 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1c82"
+		"maxdeviceid"	"0x1c82"
+		"gpu_level"	"2"
+	}
+	"307"
+	{
+		"name" "NVIDIA GeForce GTX 1050 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1c8f"
+		"maxdeviceid"	"0x1c8f"
+		"gpu_level"	"2"
+	}
+	"308"
+	{
+		"name" "NVIDIA GeForce GTX 1060"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1c03"
+		"maxdeviceid"	"0x1c04"
+		"gpu_level"	"3"
+	}
+	"309"
+	{
+		"name" "NVIDIA GeForce GTX 1060"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1c06"
+		"maxdeviceid"	"0x1c06"
+		"gpu_level"	"3"
+	}
+	"310"
+	{
+		"name" "NVIDIA GeForce GTX 1060"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b83"
+		"maxdeviceid"	"0x1b83"
+		"gpu_level"	"3"
+	}
+	"311"
+	{
+		"name" "NVIDIA GeForce GTX 1060 3GB"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1c02"
+		"maxdeviceid"	"0x1c02"
+		"gpu_level"	"3"
+	}
+	"312"
+	{
+		"name" "NVIDIA GeForce GTX 1060 3GB"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b84"
+		"maxdeviceid"	"0x1b84"
+		"gpu_level"	"3"
+	}
+	"313"
+	{
+		"name" "NVIDIA GeForce GTX 1070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b81"
+		"maxdeviceid"	"0x1b81"
+		"gpu_level"	"3"
+	}
+	"314"
+	{
+		"name" "NVIDIA GeForce GTX 1070 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b82"
+		"maxdeviceid"	"0x1b82"
+		"gpu_level"	"3"
+	}
+	"315"
+	{
+		"name" "NVIDIA GeForce GTX 1080"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b80"
+		"maxdeviceid"	"0x1b80"
+		"gpu_level"	"3"
+	}
+	"316"
+	{
+		"name" "NVIDIA GeForce GTX 1080 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b01"
+		"maxdeviceid"	"0x1b01"
+		"gpu_level"	"3"
+	}
+	"317"
+	{
+		"name" "NVIDIA GeForce GTX 1080 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b06"
+		"maxdeviceid"	"0x1b06"
+		"gpu_level"	"3"
+	}
+	"318"
+	{
+		"name" "NVIDIA GeForce GTX 1660 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x2182"
+		"maxdeviceid"	"0x2182"
+		"gpu_level"	"3"
+	}
+	"319"
+	{
+		"name" "NVIDIA GeForce RTX 2060"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1f08"
+		"maxdeviceid"	"0x1f08"
+		"gpu_level"	"3"
+	}
+	"320"
+	{
+		"name" "NVIDIA GeForce RTX 2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1f02"
+		"maxdeviceid"	"0x1f02"
+		"gpu_level"	"3"
+	}
+	"321"
+	{
+		"name" "NVIDIA GeForce RTX 2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1f07"
+		"maxdeviceid"	"0x1f07"
+		"gpu_level"	"3"
+	}
+	"322"
+	{
+		"name" "NVIDIA GeForce RTX 2080"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1e82"
+		"maxdeviceid"	"0x1e82"
+		"gpu_level"	"3"
+	}
+	"323"
+	{
+		"name" "NVIDIA GeForce RTX 2080"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1e87"
+		"maxdeviceid"	"0x1e87"
+		"gpu_level"	"3"
+	}
+	"324"
+	{
+		"name" "NVIDIA GeForce RTX 2080 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1e07"
+		"maxdeviceid"	"0x1e07"
+		"gpu_level"	"3"
+	}
+	"325"
+	{
+		"name" "NVIDIA GeForce RTX 2080 Ti"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1e04"
+		"maxdeviceid"	"0x1e04"
+		"gpu_level"	"3"
+	}
+	"326"
+	{
+		"name" "NVIDIA TITAN X"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b00"
+		"maxdeviceid"	"0x1b00"
+		"gpu_level"	"3"
+	}
+	"327"
+	{
+		"name" "NVIDIA TITAN Xp"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b02"
+		"maxdeviceid"	"0x1b02"
+		"gpu_level"	"3"
+	}
+	"328"
+	{
+		"name" "NVIDIA TITAN V"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1d81"
+		"maxdeviceid"	"0x1d81"
+		"gpu_level"	"3"
+	}
+	"329"
+	{
+		"name" "NVIDIA TITAN RTX"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1e02"
+		"maxdeviceid"	"0x1e02"
+		"gpu_level"	"3"
+	}
+	"330"
+	{
+		"name" "NVIDIA Quadro M5000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x13f0"
+		"maxdeviceid"	"0x13f0"
+		"gpu_level"	"2"
+	}
+	"331"
+	{
+		"name" "NVIDIA Quadro M5500"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x13fb"
+		"maxdeviceid"	"0x13fb"
+		"gpu_level"	"3"
+	}
+	"332"
+	{
+		"name" "NVIDIA Quadro M6000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x17f0"
+		"maxdeviceid"	"0x17f0"
+		"gpu_level"	"3"
+	}
+	"333"
+	{
+		"name" "NVIDIA Quadro M6000 24GB"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x17f1"
+		"maxdeviceid"	"0x17f1"
+		"gpu_level"	"3"
+	}
+	"334"
+	{
+		"name" "NVIDIA Quadro GV100"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1d80"
+		"maxdeviceid"	"0x1dff"
+		"gpu_level"	"3"
+	}
+	"335"
+	{
+		"name" "NVIDIA Quadro GP100"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1580"
+		"maxdeviceid"	"0x15ff"
+		"gpu_level"	"3"
+	}
+	"336"
+	{
+		"name" "NVIDIA Quadro P4000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1bb1"
+		"maxdeviceid"	"0x1bb1"
+		"gpu_level"	"3"
+	}
+	"337"
+	{
+		"name" "NVIDIA Quadro P5000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1bb0"
+		"maxdeviceid"	"0x1bb0"
+		"gpu_level"	"3"
+	}
+	"338"
+	{
+		"name" "NVIDIA Quadro P6000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1b30"
+		"maxdeviceid"	"0x1b30"
+		"gpu_level"	"3"
+	}
+	"339"
+	{
+		"name" "NVIDIA Quadro RTX 4000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1eb1"
+		"maxdeviceid"	"0x1eb1"
+		"gpu_level"	"3"
+	}
+	"340"
+	{
+		"name" "NVIDIA Quadro RTX 5000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1eb0"
+		"maxdeviceid"	"0x1eb0"
+		"gpu_level"	"3"
+	}
+	"341"
+	{
+		"name" "NVIDIA Quadro RTX 6000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1e30"
+		"maxdeviceid"	"0x1e30"
+		"gpu_level"	"3"
+	}
+	"342"
+	{
+		"name" "NVIDIA Quadro RTX 6000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x1e3c"
+		"maxdeviceid"	"0x1e3c"
+		"gpu_level"	"3"
+	}
+	"343"
+	{
+		"name" "AMD Unknown"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x0000"
+		"maxdeviceid"	"0xffff"
+		"gpu_level"	"3"
+	}
+	"344"
+	{
+		"name" "AMD Radeon HD 5450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E4"
+		"maxdeviceid"	"0x68E4"
+		"gpu_level"	"0"
+	}
+	"345"
+	{
+		"name" "AMD Radeon HD 5450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"346"
+	{
+		"name" "AMD Radeon HD 5500 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"0"
+	}
+	"347"
+	{
+		"name" "AMD Radeon HD 5500 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"348"
+	{
+		"name" "AMD Radeon HD 5570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6742"
+		"maxdeviceid"	"0x6742"
+		"gpu_level"	"0"
+	}
+	"349"
+	{
+		"name" "AMD Radeon HD 5570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6742"
+		"maxdeviceid"	"0x6742"
+		"gpu_level"	"0"
+	}
+	"350"
+	{
+		"name" "AMD Radeon HD 5570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6742"
+		"maxdeviceid"	"0x6742"
+		"gpu_level"	"0"
+	}
+	"351"
+	{
+		"name" "AMD Radeon HD 5570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"352"
+	{
+		"name" "AMD Radeon HD 5600/5700"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68B9"
+		"maxdeviceid"	"0x68B9"
+		"gpu_level"	"0"
+	}
+	"353"
+	{
+		"name" "AMD Radeon HD 5670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D8"
+		"maxdeviceid"	"0x68D8"
+		"gpu_level"	"0"
+	}
+	"354"
+	{
+		"name" "AMD Radeon HD 5700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68B8"
+		"maxdeviceid"	"0x68B8"
+		"gpu_level"	"0"
+	}
+	"355"
+	{
+		"name" "AMD Radeon HD 5700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BE"
+		"maxdeviceid"	"0x68BE"
+		"gpu_level"	"0"
+	}
+	"356"
+	{
+		"name" "AMD Radeon HD 5800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6898"
+		"maxdeviceid"	"0x6898"
+		"gpu_level"	"0"
+	}
+	"357"
+	{
+		"name" "AMD Radeon HD 5800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6899"
+		"maxdeviceid"	"0x6899"
+		"gpu_level"	"0"
+	}
+	"358"
+	{
+		"name" "AMD Radeon HD 5800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x689E"
+		"maxdeviceid"	"0x689E"
+		"gpu_level"	"0"
+	}
+	"359"
+	{
+		"name" "AMD Radeon HD 5900 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x689C"
+		"maxdeviceid"	"0x689C"
+		"gpu_level"	"1"
+	}
+	"360"
+	{
+		"name" "AMD Radeon HD 6230"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"361"
+	{
+		"name" "AMD Radeon HD 6250 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9804"
+		"maxdeviceid"	"0x9804"
+		"gpu_level"	"0"
+	}
+	"362"
+	{
+		"name" "AMD Radeon HD 6250 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9805"
+		"maxdeviceid"	"0x9805"
+		"gpu_level"	"0"
+	}
+	"363"
+	{
+		"name" "AMD Radeon HD 6290 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9807"
+		"maxdeviceid"	"0x9807"
+		"gpu_level"	"0"
+	}
+	"364"
+	{
+		"name" "AMD Radeon HD 6300M Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E4"
+		"maxdeviceid"	"0x68E4"
+		"gpu_level"	"0"
+	}
+	"365"
+	{
+		"name" "AMD Radeon HD 6300M Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E5"
+		"maxdeviceid"	"0x68E5"
+		"gpu_level"	"0"
+	}
+	"366"
+	{
+		"name" "AMD Radeon HD 6310 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9802"
+		"maxdeviceid"	"0x9802"
+		"gpu_level"	"0"
+	}
+	"367"
+	{
+		"name" "AMD Radeon HD 6310 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9803"
+		"maxdeviceid"	"0x9803"
+		"gpu_level"	"0"
+	}
+	"368"
+	{
+		"name" "AMD Radeon HD 6320 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9806"
+		"maxdeviceid"	"0x9806"
+		"gpu_level"	"0"
+	}
+	"369"
+	{
+		"name" "AMD Radeon HD 6350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"370"
+	{
+		"name" "AMD Radeon HD 6350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"371"
+	{
+		"name" "AMD Radeon HD 6350A Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"372"
+	{
+		"name" "AMD Radeon HD 6370D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9642"
+		"maxdeviceid"	"0x9642"
+		"gpu_level"	"0"
+	}
+	"373"
+	{
+		"name" "AMD Radeon HD 6380G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9643"
+		"maxdeviceid"	"0x9643"
+		"gpu_level"	"0"
+	}
+	"374"
+	{
+		"name" "AMD Radeon HD 6400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6770"
+		"maxdeviceid"	"0x6770"
+		"gpu_level"	"0"
+	}
+	"375"
+	{
+		"name" "AMD Radeon HD 6410D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9644"
+		"maxdeviceid"	"0x9644"
+		"gpu_level"	"0"
+	}
+	"376"
+	{
+		"name" "AMD Radeon HD 6410D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9645"
+		"maxdeviceid"	"0x9645"
+		"gpu_level"	"0"
+	}
+	"377"
+	{
+		"name" "AMD Radeon HD 6450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6761"
+		"maxdeviceid"	"0x6761"
+		"gpu_level"	"0"
+	}
+	"378"
+	{
+		"name" "AMD RADEON HD 6450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"0"
+	}
+	"379"
+	{
+		"name" "AMD Radeon HD 6450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"0"
+	}
+	"380"
+	{
+		"name" "AMD Radeon HD 6480G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9648"
+		"maxdeviceid"	"0x9648"
+		"gpu_level"	"0"
+	}
+	"381"
+	{
+		"name" "AMD Radeon HD 6500 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6742"
+		"maxdeviceid"	"0x6742"
+		"gpu_level"	"0"
+	}
+	"382"
+	{
+		"name" "AMD Radeon HD 6510 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"0"
+	}
+	"383"
+	{
+		"name" "AMD Radeon HD 6520G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9647"
+		"maxdeviceid"	"0x9647"
+		"gpu_level"	"0"
+	}
+	"384"
+	{
+		"name" "AMD Radeon HD 6530 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"0"
+	}
+	"385"
+	{
+		"name" "AMD Radeon HD 6530D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x964A"
+		"maxdeviceid"	"0x964A"
+		"gpu_level"	"0"
+	}
+	"386"
+	{
+		"name" "AMD Radeon HD 6550D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9640"
+		"maxdeviceid"	"0x9640"
+		"gpu_level"	"0"
+	}
+	"387"
+	{
+		"name" "AMD Radeon HD 6570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6759"
+		"maxdeviceid"	"0x6759"
+		"gpu_level"	"0"
+	}
+	"388"
+	{
+		"name" "AMD Radeon HD 6570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6837"
+		"maxdeviceid"	"0x6837"
+		"gpu_level"	"0"
+	}
+	"389"
+	{
+		"name" "AMD Radeon HD 6570 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6759"
+		"maxdeviceid"	"0x6759"
+		"gpu_level"	"0"
+	}
+	"390"
+	{
+		"name" "AMD Radeon HD 6620G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9641"
+		"maxdeviceid"	"0x9641"
+		"gpu_level"	"0"
+	}
+	"391"
+	{
+		"name" "AMD Radeon HD 6670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6758"
+		"maxdeviceid"	"0x6758"
+		"gpu_level"	"0"
+	}
+	"392"
+	{
+		"name" "AMD Radeon HD 6700 Green Edition"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BF"
+		"maxdeviceid"	"0x68BF"
+		"gpu_level"	"0"
+	}
+	"393"
+	{
+		"name" "AMD Radeon HD 6700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x673E"
+		"maxdeviceid"	"0x673E"
+		"gpu_level"	"0"
+	}
+	"394"
+	{
+		"name" "AMD Radeon HD 6700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68B8"
+		"maxdeviceid"	"0x68B8"
+		"gpu_level"	"0"
+	}
+	"395"
+	{
+		"name" "AMD Radeon HD 6700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BA"
+		"maxdeviceid"	"0x68BA"
+		"gpu_level"	"0"
+	}
+	"396"
+	{
+		"name" "AMD Radeon HD 6700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BF"
+		"maxdeviceid"	"0x68BF"
+		"gpu_level"	"0"
+	}
+	"397"
+	{
+		"name" "AMD Radeon HD 6750"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BE"
+		"maxdeviceid"	"0x68BE"
+		"gpu_level"	"0"
+	}
+	"398"
+	{
+		"name" "AMD Radeon HD 6750"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BF"
+		"maxdeviceid"	"0x68BF"
+		"gpu_level"	"0"
+	}
+	"399"
+	{
+		"name" "AMD Radeon HD 6750"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BF"
+		"maxdeviceid"	"0x68BF"
+		"gpu_level"	"0"
+	}
+	"400"
+	{
+		"name" "AMD Radeon HD 6750 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BE"
+		"maxdeviceid"	"0x68BE"
+		"gpu_level"	"0"
+	}
+	"401"
+	{
+		"name" "AMD Radeon HD 6800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6738"
+		"maxdeviceid"	"0x6738"
+		"gpu_level"	"0"
+	}
+	"402"
+	{
+		"name" "AMD Radeon HD 6800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6738"
+		"maxdeviceid"	"0x6738"
+		"gpu_level"	"0"
+	}
+	"403"
+	{
+		"name" "AMD Radeon HD 6800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6739"
+		"maxdeviceid"	"0x6739"
+		"gpu_level"	"0"
+	}
+	"404"
+	{
+		"name" "AMD Radeon HD 6800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6898"
+		"maxdeviceid"	"0x6898"
+		"gpu_level"	"0"
+	}
+	"405"
+	{
+		"name" "AMD Radeon HD 6800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x689B"
+		"maxdeviceid"	"0x689B"
+		"gpu_level"	"0"
+	}
+	"406"
+	{
+		"name" "AMD Radeon HD 6850"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6899"
+		"maxdeviceid"	"0x6899"
+		"gpu_level"	"0"
+	}
+	"407"
+	{
+		"name" "AMD Radeon HD 6850 X2"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6739"
+		"maxdeviceid"	"0x6739"
+		"gpu_level"	"0"
+	}
+	"408"
+	{
+		"name" "AMD Radeon HD 6870"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6898"
+		"maxdeviceid"	"0x6898"
+		"gpu_level"	"0"
+	}
+	"409"
+	{
+		"name" "AMD Radeon HD 6870 X2"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6738"
+		"maxdeviceid"	"0x6738"
+		"gpu_level"	"0"
+	}
+	"410"
+	{
+		"name" "AMD Radeon HD 6870 X2"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6738"
+		"maxdeviceid"	"0x6738"
+		"gpu_level"	"0"
+	}
+	"411"
+	{
+		"name" "AMD Radeon HD 6900 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6718"
+		"maxdeviceid"	"0x6718"
+		"gpu_level"	"1"
+	}
+	"412"
+	{
+		"name" "AMD Radeon HD 6900 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6719"
+		"maxdeviceid"	"0x6719"
+		"gpu_level"	"1"
+	}
+	"413"
+	{
+		"name" "AMD Radeon HD 6900 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x671D"
+		"maxdeviceid"	"0x671D"
+		"gpu_level"	"1"
+	}
+	"414"
+	{
+		"name" "AMD Radeon HD 6900 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x671F"
+		"maxdeviceid"	"0x671F"
+		"gpu_level"	"1"
+	}
+	"415"
+	{
+		"name" "AMD Radeon HD 7000 series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6778"
+		"maxdeviceid"	"0x6778"
+		"gpu_level"	"0"
+	}
+	"416"
+	{
+		"name" "AMD Radeon HD 7310 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9809"
+		"maxdeviceid"	"0x9809"
+		"gpu_level"	"0"
+	}
+	"417"
+	{
+		"name" "AMD Radeon HD 7340 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9808"
+		"maxdeviceid"	"0x9808"
+		"gpu_level"	"0"
+	}
+	"418"
+	{
+		"name" "AMD Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"419"
+	{
+		"name" "AMD Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"420"
+	{
+		"name" "AMD Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"421"
+	{
+		"name" "AMD Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E4"
+		"maxdeviceid"	"0x68E4"
+		"gpu_level"	"0"
+	}
+	"422"
+	{
+		"name" "AMD Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E5"
+		"maxdeviceid"	"0x68E5"
+		"gpu_level"	"0"
+	}
+	"423"
+	{
+		"name" "AMD Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"424"
+	{
+		"name" "AMD Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"425"
+	{
+		"name" "AMD Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68FA"
+		"maxdeviceid"	"0x68FA"
+		"gpu_level"	"0"
+	}
+	"426"
+	{
+		"name" "AMD Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68FA"
+		"maxdeviceid"	"0x68FA"
+		"gpu_level"	"0"
+	}
+	"427"
+	{
+		"name" "AMD Radeon HD 7420G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9992"
+		"maxdeviceid"	"0x9992"
+		"gpu_level"	"0"
+	}
+	"428"
+	{
+		"name" "AMD RADEON HD 7450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"0"
+	}
+	"429"
+	{
+		"name" "AMD Radeon HD 7450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"0"
+	}
+	"430"
+	{
+		"name" "AMD RADEON HD 7450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"0"
+	}
+	"431"
+	{
+		"name" "AMD Radeon HD 7450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x677B"
+		"maxdeviceid"	"0x677B"
+		"gpu_level"	"0"
+	}
+	"432"
+	{
+		"name" "AMD Radeon HD 7450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x677B"
+		"maxdeviceid"	"0x677B"
+		"gpu_level"	"0"
+	}
+	"433"
+	{
+		"name" "AMD Radeon HD 7450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x677B"
+		"maxdeviceid"	"0x677B"
+		"gpu_level"	"0"
+	}
+	"434"
+	{
+		"name" "AMD Radeon HD 7480D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9993"
+		"maxdeviceid"	"0x9993"
+		"gpu_level"	"0"
+	}
+	"435"
+	{
+		"name" "AMD Radeon HD 7500/7600 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6742"
+		"maxdeviceid"	"0x6742"
+		"gpu_level"	"0"
+	}
+	"436"
+	{
+		"name" "AMD Radeon HD 7500G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x990A"
+		"maxdeviceid"	"0x990A"
+		"gpu_level"	"0"
+	}
+	"437"
+	{
+		"name" "AMD Radeon HD 7510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"0"
+	}
+	"438"
+	{
+		"name" "AMD Radeon HD 7510 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"0"
+	}
+	"439"
+	{
+		"name" "AMD Radeon HD 7520G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9990"
+		"maxdeviceid"	"0x9990"
+		"gpu_level"	"0"
+	}
+	"440"
+	{
+		"name" "AMD Radeon HD 7540D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9991"
+		"maxdeviceid"	"0x9991"
+		"gpu_level"	"0"
+	}
+	"441"
+	{
+		"name" "AMD Radeon HD 7560D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9904"
+		"maxdeviceid"	"0x9904"
+		"gpu_level"	"0"
+	}
+	"442"
+	{
+		"name" "AMD Radeon HD 7570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6759"
+		"maxdeviceid"	"0x6759"
+		"gpu_level"	"0"
+	}
+	"443"
+	{
+		"name" "AMD Radeon HD 7570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6759"
+		"maxdeviceid"	"0x6759"
+		"gpu_level"	"0"
+	}
+	"444"
+	{
+		"name" "AMD Radeon HD 7570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675D"
+		"maxdeviceid"	"0x675D"
+		"gpu_level"	"0"
+	}
+	"445"
+	{
+		"name" "AMD Radeon HD 7570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675D"
+		"maxdeviceid"	"0x675D"
+		"gpu_level"	"0"
+	}
+	"446"
+	{
+		"name" "AMD Radeon HD 7570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"0"
+	}
+	"447"
+	{
+		"name" "AMD Radeon HD 7570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"448"
+	{
+		"name" "AMD Radeon HD 7570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"449"
+	{
+		"name" "AMD Radeon HD 7570 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6759"
+		"maxdeviceid"	"0x6759"
+		"gpu_level"	"0"
+	}
+	"450"
+	{
+		"name" "AMD Radeon HD 7660D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9901"
+		"maxdeviceid"	"0x9901"
+		"gpu_level"	"0"
+	}
+	"451"
+	{
+		"name" "AMD Radeon HD 7670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6758"
+		"maxdeviceid"	"0x6758"
+		"gpu_level"	"0"
+	}
+	"452"
+	{
+		"name" "AMD Radeon HD 7670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6758"
+		"maxdeviceid"	"0x6758"
+		"gpu_level"	"0"
+	}
+	"453"
+	{
+		"name" "AMD Radeon HD 7670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6758"
+		"maxdeviceid"	"0x6758"
+		"gpu_level"	"0"
+	}
+	"454"
+	{
+		"name" "AMD Radeon HD 7670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6758"
+		"maxdeviceid"	"0x6758"
+		"gpu_level"	"0"
+	}
+	"455"
+	{
+		"name" "AMD Radeon HD 7670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675B"
+		"maxdeviceid"	"0x675B"
+		"gpu_level"	"0"
+	}
+	"456"
+	{
+		"name" "AMD Radeon HD 7670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675B"
+		"maxdeviceid"	"0x675B"
+		"gpu_level"	"0"
+	}
+	"457"
+	{
+		"name" "AMD Radeon HD 7700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x665C"
+		"maxdeviceid"	"0x665C"
+		"gpu_level"	"0"
+	}
+	"458"
+	{
+		"name" "AMD Radeon HD 7700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6837"
+		"maxdeviceid"	"0x6837"
+		"gpu_level"	"0"
+	}
+	"459"
+	{
+		"name" "AMD Radeon HD 7700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x683D"
+		"maxdeviceid"	"0x683D"
+		"gpu_level"	"0"
+	}
+	"460"
+	{
+		"name" "AMD Radeon HD 7700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x683F"
+		"maxdeviceid"	"0x683F"
+		"gpu_level"	"0"
+	}
+	"461"
+	{
+		"name" "AMD Radeon HD 7720"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x673E"
+		"maxdeviceid"	"0x673E"
+		"gpu_level"	"0"
+	}
+	"462"
+	{
+		"name" "AMD Radeon HD 7800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x679E"
+		"maxdeviceid"	"0x679E"
+		"gpu_level"	"1"
+	}
+	"463"
+	{
+		"name" "AMD Radeon HD 7800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6818"
+		"maxdeviceid"	"0x6818"
+		"gpu_level"	"1"
+	}
+	"464"
+	{
+		"name" "AMD Radeon HD 7800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6819"
+		"maxdeviceid"	"0x6819"
+		"gpu_level"	"1"
+	}
+	"465"
+	{
+		"name" "AMD Radeon HD 7900 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6798"
+		"maxdeviceid"	"0x6798"
+		"gpu_level"	"2"
+	}
+	"466"
+	{
+		"name" "AMD Radeon HD 7900 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6798"
+		"maxdeviceid"	"0x6798"
+		"gpu_level"	"2"
+	}
+	"467"
+	{
+		"name" "AMD Radeon HD 7900 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x679A"
+		"maxdeviceid"	"0x679A"
+		"gpu_level"	"2"
+	}
+	"468"
+	{
+		"name" "AMD Radeon HD 7900 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x679B"
+		"maxdeviceid"	"0x679B"
+		"gpu_level"	"2"
+	}
+	"469"
+	{
+		"name" "AMD Radeon HD 8180"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9839"
+		"maxdeviceid"	"0x9839"
+		"gpu_level"	"1"
+	}
+	"470"
+	{
+		"name" "AMD Radeon HD 8210"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9834"
+		"maxdeviceid"	"0x9834"
+		"gpu_level"	"1"
+	}
+	"471"
+	{
+		"name" "AMD Radeon HD 8240"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9838"
+		"maxdeviceid"	"0x9838"
+		"gpu_level"	"1"
+	}
+	"472"
+	{
+		"name" "AMD Radeon HD 8250"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x983D"
+		"maxdeviceid"	"0x983D"
+		"gpu_level"	"1"
+	}
+	"473"
+	{
+		"name" "AMD Radeon HD 8280"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9836"
+		"maxdeviceid"	"0x9836"
+		"gpu_level"	"1"
+	}
+	"474"
+	{
+		"name" "AMD Radeon HD 8330"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9832"
+		"maxdeviceid"	"0x9832"
+		"gpu_level"	"1"
+	}
+	"475"
+	{
+		"name" "AMD Radeon HD 8350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"1"
+	}
+	"476"
+	{
+		"name" "AMD Radeon HD 8350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"1"
+	}
+	"477"
+	{
+		"name" "AMD Radeon HD 8350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"1"
+	}
+	"478"
+	{
+		"name" "AMD Radeon HD 8350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68FA"
+		"maxdeviceid"	"0x68FA"
+		"gpu_level"	"1"
+	}
+	"479"
+	{
+		"name" "AMD Radeon HD 8370D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9998"
+		"maxdeviceid"	"0x9998"
+		"gpu_level"	"1"
+	}
+	"480"
+	{
+		"name" "AMD Radeon HD 8400"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9830"
+		"maxdeviceid"	"0x9830"
+		"gpu_level"	"1"
+	}
+	"481"
+	{
+		"name" "AMD Radeon HD 8450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"1"
+	}
+	"482"
+	{
+		"name" "AMD Radeon HD 8470"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6778"
+		"maxdeviceid"	"0x6778"
+		"gpu_level"	"1"
+	}
+	"483"
+	{
+		"name" "AMD Radeon HD 8470 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6778"
+		"maxdeviceid"	"0x6778"
+		"gpu_level"	"1"
+	}
+	"484"
+	{
+		"name" "AMD Radeon HD 8470 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6778"
+		"maxdeviceid"	"0x6778"
+		"gpu_level"	"1"
+	}
+	"485"
+	{
+		"name" "AMD Radeon HD 8470 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6778"
+		"maxdeviceid"	"0x6778"
+		"gpu_level"	"1"
+	}
+	"486"
+	{
+		"name" "AMD Radeon HD 8470 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6778"
+		"maxdeviceid"	"0x6778"
+		"gpu_level"	"1"
+	}
+	"487"
+	{
+		"name" "AMD Radeon HD 8470D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9996"
+		"maxdeviceid"	"0x9996"
+		"gpu_level"	"1"
+	}
+	"488"
+	{
+		"name" "AMD Radeon HD 8510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6742"
+		"maxdeviceid"	"0x6742"
+		"gpu_level"	"1"
+	}
+	"489"
+	{
+		"name" "AMD Radeon HD 8510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"1"
+	}
+	"490"
+	{
+		"name" "AMD Radeon HD 8510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"1"
+	}
+	"491"
+	{
+		"name" "AMD Radeon HD 8510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"1"
+	}
+	"492"
+	{
+		"name" "AMD Radeon HD 8510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675F"
+		"maxdeviceid"	"0x675F"
+		"gpu_level"	"1"
+	}
+	"493"
+	{
+		"name" "AMD Radeon HD 8550"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x675D"
+		"maxdeviceid"	"0x675D"
+		"gpu_level"	"1"
+	}
+	"494"
+	{
+		"name" "AMD Radeon HD 8550D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x999D"
+		"maxdeviceid"	"0x999D"
+		"gpu_level"	"1"
+	}
+	"495"
+	{
+		"name" "AMD Radeon HD 8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"496"
+	{
+		"name" "AMD Radeon HD 8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"497"
+	{
+		"name" "AMD Radeon HD 8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"498"
+	{
+		"name" "AMD Radeon HD 8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"499"
+	{
+		"name" "AMD Radeon HD 8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"500"
+	{
+		"name" "AMD Radeon HD 8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"501"
+	{
+		"name" "AMD Radeon HD 8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"502"
+	{
+		"name" "AMD Radeon HD 8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6759"
+		"maxdeviceid"	"0x6759"
+		"gpu_level"	"1"
+	}
+	"503"
+	{
+		"name" "AMD Radeon HD 8570 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"504"
+	{
+		"name" "AMD Radeon HD 8570D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x990E"
+		"maxdeviceid"	"0x990E"
+		"gpu_level"	"1"
+	}
+	"505"
+	{
+		"name" "AMD Radeon HD 8650D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x999C"
+		"maxdeviceid"	"0x999C"
+		"gpu_level"	"1"
+	}
+	"506"
+	{
+		"name" "AMD Radeon HD 8670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6610"
+		"maxdeviceid"	"0x6610"
+		"gpu_level"	"1"
+	}
+	"507"
+	{
+		"name" "AMD Radeon HD 8670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6610"
+		"maxdeviceid"	"0x6610"
+		"gpu_level"	"1"
+	}
+	"508"
+	{
+		"name" "AMD Radeon HD 8670 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6610"
+		"maxdeviceid"	"0x6610"
+		"gpu_level"	"1"
+	}
+	"509"
+	{
+		"name" "AMD Radeon HD 8670 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6610"
+		"maxdeviceid"	"0x6610"
+		"gpu_level"	"1"
+	}
+	"510"
+	{
+		"name" "AMD Radeon HD 8670D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x990C"
+		"maxdeviceid"	"0x990C"
+		"gpu_level"	"1"
+	}
+	"511"
+	{
+		"name" "AMD Radeon HD 8760"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x683D"
+		"maxdeviceid"	"0x683D"
+		"gpu_level"	"1"
+	}
+	"512"
+	{
+		"name" "AMD Radeon HD 8760"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x683D"
+		"maxdeviceid"	"0x683D"
+		"gpu_level"	"1"
+	}
+	"513"
+	{
+		"name" "AMD Radeon HD 8770"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x665C"
+		"maxdeviceid"	"0x665C"
+		"gpu_level"	"2"
+	}
+	"514"
+	{
+		"name" "AMD Radeon HD 8770"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x665C"
+		"maxdeviceid"	"0x665C"
+		"gpu_level"	"2"
+	}
+	"515"
+	{
+		"name" "AMD Radeon HD 8870"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6818"
+		"maxdeviceid"	"0x6818"
+		"gpu_level"	"3"
+	}
+	"516"
+	{
+		"name" "AMD Radeon HD 8950"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x679A"
+		"maxdeviceid"	"0x679A"
+		"gpu_level"	"3"
+	}
+	"517"
+	{
+		"name" "AMD Radeon HD 8950"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x679A"
+		"maxdeviceid"	"0x679A"
+		"gpu_level"	"3"
+	}
+	"518"
+	{
+		"name" "AMD Radeon HD 8970 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6798"
+		"maxdeviceid"	"0x6798"
+		"gpu_level"	"3"
+	}
+	"519"
+	{
+		"name" "AMD Radeon HD 8990"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x679B"
+		"maxdeviceid"	"0x679B"
+		"gpu_level"	"2"
+	}
+	"520"
+	{
+		"name" "AMD Radeon HD 8990"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x679B"
+		"maxdeviceid"	"0x679B"
+		"gpu_level"	"2"
+	}
+	"521"
+	{
+		"name" "AMD Radeon HD 8990"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x679B"
+		"maxdeviceid"	"0x679B"
+		"gpu_level"	"2"
+	}
+	"522"
+	{
+		"name" "AMD RADEON HD7450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"0"
+	}
+	"523"
+	{
+		"name" "AMD Radeon HD7570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6742"
+		"maxdeviceid"	"0x6742"
+		"gpu_level"	"0"
+	}
+	"524"
+	{
+		"name" "AMD Radeon HD7570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6759"
+		"maxdeviceid"	"0x6759"
+		"gpu_level"	"0"
+	}
+	"525"
+	{
+		"name" "AMD Radeon HD7670"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6758"
+		"maxdeviceid"	"0x6758"
+		"gpu_level"	"0"
+	}
+	"526"
+	{
+		"name" "AMD Radeon HD8350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E5"
+		"maxdeviceid"	"0x68E5"
+		"gpu_level"	"1"
+	}
+	"527"
+	{
+		"name" "AMD Radeon HD8350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"1"
+	}
+	"528"
+	{
+		"name" "AMD RADEON HD8450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"1"
+	}
+	"529"
+	{
+		"name" "AMD RADEON HD8450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"1"
+	}
+	"530"
+	{
+		"name" "AMD Radeon HD8550"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6759"
+		"maxdeviceid"	"0x6759"
+		"gpu_level"	"1"
+	}
+	"531"
+	{
+		"name" "AMD Radeon HD8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6742"
+		"maxdeviceid"	"0x6742"
+		"gpu_level"	"1"
+	}
+	"532"
+	{
+		"name" "AMD Radeon HD8570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6759"
+		"maxdeviceid"	"0x6759"
+		"gpu_level"	"1"
+	}
+	"533"
+	{
+		"name" "AMD Radeon HD8730"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6837"
+		"maxdeviceid"	"0x6837"
+		"gpu_level"	"1"
+	}
+	"534"
+	{
+		"name" "AMD Radeon HD8730"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6837"
+		"maxdeviceid"	"0x6837"
+		"gpu_level"	"1"
+	}
+	"535"
+	{
+		"name" "AMD Radeon HD8730"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6837"
+		"maxdeviceid"	"0x6837"
+		"gpu_level"	"1"
+	}
+	"536"
+	{
+		"name" "AMD Radeon R5 230"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"0"
+	}
+	"537"
+	{
+		"name" "AMD Radeon R5 235"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6778"
+		"maxdeviceid"	"0x6778"
+		"gpu_level"	"0"
+	}
+	"538"
+	{
+		"name" "AMD Radeon R5 235"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6778"
+		"maxdeviceid"	"0x6778"
+		"gpu_level"	"0"
+	}
+	"539"
+	{
+		"name" "AMD Radeon R5 235X"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6771"
+		"maxdeviceid"	"0x6771"
+		"gpu_level"	"0"
+	}
+	"540"
+	{
+		"name" "AMD Radeon R7 200 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6610"
+		"maxdeviceid"	"0x6610"
+		"gpu_level"	"1"
+	}
+	"541"
+	{
+		"name" "AMD Radeon R7 200 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6613"
+		"maxdeviceid"	"0x6613"
+		"gpu_level"	"1"
+	}
+	"542"
+	{
+		"name" "AMD Radeon R7 200 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6658"
+		"maxdeviceid"	"0x6658"
+		"gpu_level"	"1"
+	}
+	"543"
+	{
+		"name" "AMD Radeon R7 200 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x665D"
+		"maxdeviceid"	"0x665D"
+		"gpu_level"	"1"
+	}
+	"544"
+	{
+		"name" "AMD Radeon R7 240"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"545"
+	{
+		"name" "AMD Radeon R7 240"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"546"
+	{
+		"name" "AMD Radeon R7 240"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"547"
+	{
+		"name" "AMD Radeon R9 200 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6798"
+		"maxdeviceid"	"0x6798"
+		"gpu_level"	"2"
+	}
+	"548"
+	{
+		"name" "AMD Radeon R9 200 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x67B0"
+		"maxdeviceid"	"0x67B0"
+		"gpu_level"	"2"
+	}
+	"549"
+	{
+		"name" "AMD Radeon R9 200 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x67B1"
+		"maxdeviceid"	"0x67B1"
+		"gpu_level"	"2"
+	}
+	"550"
+	{
+		"name" "AMD Radeon R9 200 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6810"
+		"maxdeviceid"	"0x6810"
+		"gpu_level"	"2"
+	}
+	"551"
+	{
+		"name" "AMD Radeon R9 200 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6811"
+		"maxdeviceid"	"0x6811"
+		"gpu_level"	"2"
+	}
+	"552"
+	{
+		"name" "AMD Radeon R9 255"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6835"
+		"maxdeviceid"	"0x6835"
+		"gpu_level"	"1"
+	}
+	"553"
+	{
+		"name" "AMD Radeon R9 255"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6835"
+		"maxdeviceid"	"0x6835"
+		"gpu_level"	"2"
+	}
+	"554"
+	{
+		"name" "AMD Radeon R9 260"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x665C"
+		"maxdeviceid"	"0x665C"
+		"gpu_level"	"2"
+	}
+	"555"
+	{
+		"name" "AMD Radeon R9 260"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x665C"
+		"maxdeviceid"	"0x665C"
+		"gpu_level"	"2"
+	}
+	"556"
+	{
+		"name" "AMD Radeon R9 290"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x67B1"
+		"maxdeviceid"	"0x67B1"
+		"gpu_level"	"3"
+	}
+	"557"
+	{
+		"name" "AMD Radeon R9 290X"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x67B0"
+		"maxdeviceid"	"0x67B0"
+		"gpu_level"	"3"
+	}
+	"558"
+	{
+		"name" "AMD Radeon(TM) HD 6480G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9649"
+		"maxdeviceid"	"0x9649"
+		"gpu_level"	"0"
+	}
+	"559"
+	{
+		"name" "AMD Radeon(TM) HD 7450A Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6779"
+		"maxdeviceid"	"0x6779"
+		"gpu_level"	"0"
+	}
+	"560"
+	{
+		"name" "AMD Radeon(TM) HD8490"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6771"
+		"maxdeviceid"	"0x6771"
+		"gpu_level"	"1"
+	}
