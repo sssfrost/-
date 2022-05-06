@@ -1,0 +1,640 @@
+"82"
+	{
+		"name" "NVIDIA Quadro FX 580"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0659"
+		"maxdeviceid"	"0x0659"
+		"gpu_level"	"0"
+	}
+	"83"
+	{
+		"name" "NVIDIA GeForce 9400 GT"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x065B"
+		"maxdeviceid"	"0x065B"
+		"gpu_level"	"0"
+	}
+	"84"
+	{
+		"name" "NVIDIA Quadro FX 770M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x065C"
+		"maxdeviceid"	"0x065C"
+		"gpu_level"	"0"
+	}
+	"85"
+	{
+		"name" "NVIDIA GeForce G210"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x065F"
+		"maxdeviceid"	"0x065F"
+		"gpu_level"	"0"
+	}
+	"86"
+	{
+		"name" "NVIDIA GeForce GTX 480"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06C0"
+		"maxdeviceid"	"0x06C0"
+		"gpu_level"	"0"
+	}
+	"87"
+	{
+		"name" "NVIDIA GeForce GTX 465"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06C4"
+		"maxdeviceid"	"0x06C4"
+		"gpu_level"	"0"
+	}
+	"88"
+	{
+		"name" "NVIDIA GeForce GTX 470"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06CD"
+		"maxdeviceid"	"0x06CD"
+		"gpu_level"	"0"
+	}
+	"89"
+	{
+		"name" "NVIDIA Tesla C2050 / C2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06D1"
+		"maxdeviceid"	"0x06D1"
+		"gpu_level"	"0"
+	}
+	"90"
+	{
+		"name" "NVIDIA Tesla C2050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0771"
+		"maxdeviceid"	"0x0771"
+		"gpu_level"	"0"
+	}
+	"91"
+	{
+		"name" "NVIDIA Tesla C2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0772"
+		"maxdeviceid"	"0x0772"
+		"gpu_level"	"0"
+	}
+	"92"
+	{
+		"name" "NVIDIA Tesla M2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06D2"
+		"maxdeviceid"	"0x06D2"
+		"gpu_level"	"0"
+	}
+	"93"
+	{
+		"name" "NVIDIA Tesla M2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0774"
+		"maxdeviceid"	"0x0774"
+		"gpu_level"	"0"
+	}
+	"94"
+	{
+		"name" "NVIDIA Tesla M207"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0830"
+		"maxdeviceid"	"0x0830"
+		"gpu_level"	"0"
+	}
+	"95"
+	{
+		"name" "NVIDIA Tesla M2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0842"
+		"maxdeviceid"	"0x0842"
+		"gpu_level"	"0"
+	}
+	"96"
+	{
+		"name" "NVIDIA Tesla X2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x088F"
+		"maxdeviceid"	"0x088F"
+		"gpu_level"	"0"
+	}
+	"97"
+	{
+		"name" "NVIDIA Tesla M2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0908"
+		"maxdeviceid"	"0x0908"
+		"gpu_level"	"0"
+	}
+	"98"
+	{
+		"name" "NVIDIA Quadro 6000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06D8"
+		"maxdeviceid"	"0x06D8"
+		"gpu_level"	"0"
+	}
+	"99"
+	{
+		"name" "NVIDIA Quadro 5000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06D9"
+		"maxdeviceid"	"0x06D9"
+		"gpu_level"	"0"
+	}
+	"100"
+	{
+		"name" "NVIDIA Quadro 6000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06DC"
+		"maxdeviceid"	"0x06DC"
+		"gpu_level"	"0"
+	}
+	"101"
+	{
+		"name" "NVIDIA Quadro 4000"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06DD"
+		"maxdeviceid"	"0x06DD"
+		"gpu_level"	"0"
+	}
+	"102"
+	{
+		"name" "NVIDIA Tesla T20 Processor"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06DE"
+		"maxdeviceid"	"0x06DE"
+		"gpu_level"	"0"
+	}
+	"103"
+	{
+		"name" "NVIDIA Tesla S2050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0773"
+		"maxdeviceid"	"0x0773"
+		"gpu_level"	"0"
+	}
+	"104"
+	{
+		"name" "NVIDIA Tesla M2050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x082F"
+		"maxdeviceid"	"0x082F"
+		"gpu_level"	"0"
+	}
+	"105"
+	{
+		"name" "NVIDIA Tesla X2070"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0840"
+		"maxdeviceid"	"0x0840"
+		"gpu_level"	"0"
+	}
+	"106"
+	{
+		"name" "NVIDIA Tesla M2050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0842"
+		"maxdeviceid"	"0x0842"
+		"gpu_level"	"0"
+	}
+	"107"
+	{
+		"name" "NVIDIA Tesla M2050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0846"
+		"maxdeviceid"	"0x0846"
+		"gpu_level"	"0"
+	}
+	"108"
+	{
+		"name" "NVIDIA Tesla M2050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0866"
+		"maxdeviceid"	"0x0866"
+		"gpu_level"	"0"
+	}
+	"109"
+	{
+		"name" "NVIDIA Tesla M2050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0907"
+		"maxdeviceid"	"0x0907"
+		"gpu_level"	"0"
+	}
+	"110"
+	{
+		"name" "NVIDIA Tesla M2050"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x091E"
+		"maxdeviceid"	"0x091E"
+		"gpu_level"	"0"
+	}
+	"111"
+	{
+		"name" "NVIDIA Tesla M2070-Q"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06DF"
+		"maxdeviceid"	"0x06DF"
+		"gpu_level"	"0"
+	}
+	"112"
+	{
+		"name" "NVIDIA Tesla M2070-Q"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x084D"
+		"maxdeviceid"	"0x084D"
+		"gpu_level"	"0"
+	}
+	"113"
+	{
+		"name" "NVIDIA Tesla M2070-Q"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x087F"
+		"maxdeviceid"	"0x087F"
+		"gpu_level"	"0"
+	}
+	"114"
+	{
+		"name" "NVIDIA GeForce 9300 GE"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06E0"
+		"maxdeviceid"	"0x06E0"
+		"gpu_level"	"0"
+	}
+	"115"
+	{
+		"name" "NVIDIA GeForce 9300 GS"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06E1"
+		"maxdeviceid"	"0x06E1"
+		"gpu_level"	"0"
+	}
+	"116"
+	{
+		"name" "NVIDIA GeForce G100"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06E6"
+		"maxdeviceid"	"0x06E6"
+		"gpu_level"	"0"
+	}
+	"117"
+	{
+		"name" "NVIDIA GeForce 9300 SE"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06E7"
+		"maxdeviceid"	"0x06E7"
+		"gpu_level"	"0"
+	}
+	"118"
+	{
+		"name" "NVIDIA GeForce 9300M GS"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06E9"
+		"maxdeviceid"	"0x06E9"
+		"gpu_level"	"0"
+	}
+	"119"
+	{
+		"name" "NVIDIA Quadro NVS 420"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06F8"
+		"maxdeviceid"	"0x06F8"
+		"gpu_level"	"0"
+	}
+	"120"
+	{
+		"name" "NVIDIA Quadro FX 370 LP"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06F9"
+		"maxdeviceid"	"0x06F9"
+		"gpu_level"	"0"
+	}
+	"121"
+	{
+		"name" "NVIDIA Quadro NVS 450"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06FA"
+		"maxdeviceid"	"0x06FA"
+		"gpu_level"	"0"
+	}
+	"122"
+	{
+		"name" "NVIDIA Quadro FX 370M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06Fb"
+		"maxdeviceid"	"0x06Fb"
+		"gpu_level"	"0"
+	}
+	"123"
+	{
+		"name" "NVIDIA Quadro NVS 295"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06FD"
+		"maxdeviceid"	"0x06FD"
+		"gpu_level"	"0"
+	}
+	"124"
+	{
+		"name" "NVIDIA HICx16 + Graphics"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x06FF"
+		"maxdeviceid"	"0x06FF"
+		"gpu_level"	"0"
+	}
+	"125"
+	{
+		"name" "NVIDIA HICx8 + Graphics"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0711"
+		"maxdeviceid"	"0x0711"
+		"gpu_level"	"0"
+	}
+	"126"
+	{
+		"name" "NVIDIA GeForce 9200"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0846"
+		"maxdeviceid"	"0x0846"
+		"gpu_level"	"0"
+	}
+	"127"
+	{
+		"name" "NVIDIA GeForce 9100"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0847"
+		"maxdeviceid"	"0x0847"
+		"gpu_level"	"0"
+	}
+	"128"
+	{
+		"name" "NVIDIA GeForce 9200"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x084B"
+		"maxdeviceid"	"0x084B"
+		"gpu_level"	"0"
+	}
+	"129"
+	{
+		"name" "NVIDIA GeForce 9400"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0860"
+		"maxdeviceid"	"0x0860"
+		"gpu_level"	"0"
+	}
+	"130"
+	{
+		"name" "NVIDIA GeForce 9400"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0861"
+		"maxdeviceid"	"0x0861"
+		"gpu_level"	"0"
+	}
+	"131"
+	{
+		"name" "NVIDIA GeForce 9300"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0864"
+		"maxdeviceid"	"0x0864"
+		"gpu_level"	"0"
+	}
+	"132"
+	{
+		"name" "NVIDIA GeForce 9400"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x086A"
+		"maxdeviceid"	"0x086A"
+		"gpu_level"	"0"
+	}
+	"133"
+	{
+		"name" "NVIDIA GeForce 9300 / nForce 730i"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x086C"
+		"maxdeviceid"	"0x086C"
+		"gpu_level"	"0"
+	}
+	"134"
+	{
+		"name" "NVIDIA GeForce 9200"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x086D"
+		"maxdeviceid"	"0x086D"
+		"gpu_level"	"0"
+	}
+	"135"
+	{
+		"name" "NVIDIA GeForce 9200"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0871"
+		"maxdeviceid"	"0x0871"
+		"gpu_level"	"0"
+	}
+	"136"
+	{
+		"name" "NVIDIA GeForce 9400"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x087A"
+		"maxdeviceid"	"0x087A"
+		"gpu_level"	"0"
+	}
+	"137"
+	{
+		"name" "NVIDIA GeForce GT 220"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A20"
+		"maxdeviceid"	"0x0A20"
+		"gpu_level"	"0"
+	}
+	"138"
+	{
+		"name" "NVIDIA GeForce 315"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A22"
+		"maxdeviceid"	"0x0A22"
+		"gpu_level"	"0"
+	}
+	"139"
+	{
+		"name" "NVIDIA GeForce 210"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A23"
+		"maxdeviceid"	"0x0A23"
+		"gpu_level"	"0"
+	}
+	"140"
+	{
+		"name" "NVIDIA GeForce 405"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A26"
+		"maxdeviceid"	"0x0A26"
+		"gpu_level"	"1"
+	}
+	"141"
+	{
+		"name" "NVIDIA GeForce 405"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A27"
+		"maxdeviceid"	"0x0A27"
+		"gpu_level"	"1"
+	}
+	"142"
+	{
+		"name" "NVIDIA GeForce GT 415"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A32"
+		"maxdeviceid"	"0x0A32"
+		"gpu_level"	"1"
+	}
+	"143"
+	{
+		"name" "NVIDIA Quadro 400"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A38"
+		"maxdeviceid"	"0x0A38"
+		"gpu_level"	"0"
+	}
+	"144"
+	{
+		"name" "NVIDIA Quadro FX 880M"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A3C"
+		"maxdeviceid"	"0x0A3C"
+		"gpu_level"	"0"
+	}
+	"145"
+	{
+		"name" "NVIDIA GeForce G210"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A60"
+		"maxdeviceid"	"0x0A60"
+		"gpu_level"	"0"
+	}
+	"146"
+	{
+		"name" "NVIDIA GeForce 205"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A62"
+		"maxdeviceid"	"0x0A62"
+		"gpu_level"	"0"
+	}
+	"147"
+	{
+		"name" "NVIDIA GeForce 310"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A63"
+		"maxdeviceid"	"0x0A63"
+		"gpu_level"	"0"
+	}
+	"148"
+	{
+		"name" "NVIDIA GeForce 210"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A65"
+		"maxdeviceid"	"0x0A65"
+		"gpu_level"	"0"
+	}
+	"149"
+	{
+		"name" "NVIDIA GeForce 310"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A66"
+		"maxdeviceid"	"0x0A66"
+		"gpu_level"	"0"
+	}
+	"150"
+	{
+		"name" "NVIDIA GeForce 315"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0A67"
+		"maxdeviceid"	"0x0A67"
+		"gpu_level"	"0"
+	}
+	"151"
+	{
+		"name" "NVIDIA GeForce GT 330"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0CA0"
+		"maxdeviceid"	"0x0CA0"
+		"gpu_level"	"0"
+	}
+	"152"
+	{
+		"name" "NVIDIA GeForce GT 320"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0CA2"
+		"maxdeviceid"	"0x0CA2"
+		"gpu_level"	"0"
+	}
+	"153"
+	{
+		"name" "NVIDIA GeForce GT 240"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0CA3"
+		"maxdeviceid"	"0x0CA3"
+		"gpu_level"	"0"
+	}
+	"154"
+	{
+		"name" "NVIDIA GeForce GT 340"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0CA4"
+		"maxdeviceid"	"0x0CA4"
+		"gpu_level"	"0"
+	}
+	"155"
+	{
+		"name" "NVIDIA GeForce GT 220"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0CA5"
+		"maxdeviceid"	"0x0CA5"
+		"gpu_level"	"0"
+	}
+	"156"
+	{
+		"name" "NVIDIA GeForce GT 330"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0CA7"
+		"maxdeviceid"	"0x0CA7"
+		"gpu_level"	"0"
+	}
+	"157"
+	{
+		"name" "NVIDIA GeForce GT 220"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0CAC"
+		"maxdeviceid"	"0x0CAC"
+		"gpu_level"	"0"
+	}
+	"158"
+	{
+		"name" "NVIDIA GeForce GT 440"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DC0"
+		"maxdeviceid"	"0x0DC0"
+		"gpu_level"	"1"
+	}
+	"159"
+	{
+		"name" "NVIDIA GeForce GTS 450"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DC4"
+		"maxdeviceid"	"0x0DC4"
+		"gpu_level"	"1"
+	}
+	"160"
+	{
+		"name" "NVIDIA GeForce GTS 450"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DC5"
+		"maxdeviceid"	"0x0DC5"
+		"gpu_level"	"1"
+	}
+	"161"
+	{
+		"name" "NVIDIA GeForce GTS 450"
+		"vendorid"	"0x10de"
+		"mindeviceid"	"0x0DC6"
+		"maxdeviceid"	"0x0DC6"
+		"gpu_level"	"1"
+	}
