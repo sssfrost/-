@@ -1,0 +1,1192 @@
+"561"
+	{
+		"name" "AMD Radeon(TM) R5 240"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6611"
+		"maxdeviceid"	"0x6611"
+		"gpu_level"	"1"
+	}
+	"562"
+	{
+		"name" "AMD Radeon(TM) R7 250"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6610"
+		"maxdeviceid"	"0x6610"
+		"gpu_level"	"1"
+	}
+	"563"
+	{
+		"name" "AMD Radeon(TM) R7 250"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6610"
+		"maxdeviceid"	"0x6610"
+		"gpu_level"	"1"
+	}
+	"564"
+	{
+		"name" "AMD Radeon. HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68FA"
+		"maxdeviceid"	"0x68FA"
+		"gpu_level"	"0"
+	}
+	"565"
+	{
+		"name" "ASUS EAH5450 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"566"
+	{
+		"name" "ASUS EAH5870 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x689C"
+		"maxdeviceid"	"0x689C"
+		"gpu_level"	"0"
+	}
+	"567"
+	{
+		"name" "ATI  Radeon HD 5000 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68C1"
+		"maxdeviceid"	"0x68C1"
+		"gpu_level"	"0"
+	}
+	"568"
+	{
+		"name" "ATI  Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E0"
+		"maxdeviceid"	"0x68E0"
+		"gpu_level"	"0"
+	}
+	"569"
+	{
+		"name" "ATI  Radeon HD 6350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"570"
+	{
+		"name" "ATI Mobility Radeon HD 4830"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x94A0"
+		"maxdeviceid"	"0x94A0"
+		"gpu_level"	"0"
+	}
+	"571"
+	{
+		"name" "ATI Mobility Radeon HD 4850"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944A"
+		"maxdeviceid"	"0x944A"
+		"gpu_level"	"0"
+	}
+	"572"
+	{
+		"name" "ATI Mobility Radeon HD 4860"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x94A1"
+		"maxdeviceid"	"0x94A1"
+		"gpu_level"	"0"
+	}
+	"573"
+	{
+		"name" "ATI Mobility Radeon HD 4870"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x945A"
+		"maxdeviceid"	"0x945A"
+		"gpu_level"	"0"
+	}
+	"574"
+	{
+		"name" "ATI Mobility Radeon HD 5000 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"575"
+	{
+		"name" "ATI Radeon HD 4700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944E"
+		"maxdeviceid"	"0x944E"
+		"gpu_level"	"0"
+	}
+	"576"
+	{
+		"name" "ATI Radeon HD 4700 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x94B4"
+		"maxdeviceid"	"0x94B4"
+		"gpu_level"	"0"
+	}
+	"577"
+	{
+		"name" "ATI Radeon HD 4770"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x94B3"
+		"maxdeviceid"	"0x94B3"
+		"gpu_level"	"0"
+	}
+	"578"
+	{
+		"name" "ATI Radeon HD 4770"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x94B3"
+		"maxdeviceid"	"0x94B3"
+		"gpu_level"	"0"
+	}
+	"579"
+	{
+		"name" "ATI Radeon HD 4770"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x94B5"
+		"maxdeviceid"	"0x94B5"
+		"gpu_level"	"0"
+	}
+	"580"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944A"
+		"maxdeviceid"	"0x944A"
+		"gpu_level"	"0"
+	}
+	"581"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944A"
+		"maxdeviceid"	"0x944A"
+		"gpu_level"	"0"
+	}
+	"582"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944A"
+		"maxdeviceid"	"0x944A"
+		"gpu_level"	"0"
+	}
+	"583"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944A"
+		"maxdeviceid"	"0x944A"
+		"gpu_level"	"0"
+	}
+	"584"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944A"
+		"maxdeviceid"	"0x944A"
+		"gpu_level"	"0"
+	}
+	"585"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944A"
+		"maxdeviceid"	"0x944A"
+		"gpu_level"	"0"
+	}
+	"586"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944A"
+		"maxdeviceid"	"0x944A"
+		"gpu_level"	"0"
+	}
+	"587"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944A"
+		"maxdeviceid"	"0x944A"
+		"gpu_level"	"0"
+	}
+	"588"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9440"
+		"maxdeviceid"	"0x9440"
+		"gpu_level"	"0"
+	}
+	"589"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9442"
+		"maxdeviceid"	"0x9442"
+		"gpu_level"	"0"
+	}
+	"590"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944C"
+		"maxdeviceid"	"0x944C"
+		"gpu_level"	"0"
+	}
+	"591"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9460"
+		"maxdeviceid"	"0x9460"
+		"gpu_level"	"0"
+	}
+	"592"
+	{
+		"name" "ATI Radeon HD 4800 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9462"
+		"maxdeviceid"	"0x9462"
+		"gpu_level"	"0"
+	}
+	"593"
+	{
+		"name" "ATI Radeon HD 4810 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944E"
+		"maxdeviceid"	"0x944E"
+		"gpu_level"	"0"
+	}
+	"594"
+	{
+		"name" "ATI Radeon HD 4810 series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944E"
+		"maxdeviceid"	"0x944E"
+		"gpu_level"	"0"
+	}
+	"595"
+	{
+		"name" "ATI Radeon HD 4810 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944E"
+		"maxdeviceid"	"0x944E"
+		"gpu_level"	"0"
+	}
+	"596"
+	{
+		"name" "ATI Radeon HD 4820"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944E"
+		"maxdeviceid"	"0x944E"
+		"gpu_level"	"0"
+	}
+	"597"
+	{
+		"name" "ATI Radeon HD 4830"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944C"
+		"maxdeviceid"	"0x944C"
+		"gpu_level"	"0"
+	}
+	"598"
+	{
+		"name" "ATI Radeon HD 4830"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x944C"
+		"maxdeviceid"	"0x944C"
+		"gpu_level"	"0"
+	}
+	"599"
+	{
+		"name" "ATI Radeon HD 4850"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9442"
+		"maxdeviceid"	"0x9442"
+		"gpu_level"	"0"
+	}
+	"600"
+	{
+		"name" "ATI Radeon HD 4850"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9442"
+		"maxdeviceid"	"0x9442"
+		"gpu_level"	"0"
+	}
+	"601"
+	{
+		"name" "ATI Radeon HD 4850 X2"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9443"
+		"maxdeviceid"	"0x9443"
+		"gpu_level"	"0"
+	}
+	"602"
+	{
+		"name" "ATI Radeon HD 4870"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9440"
+		"maxdeviceid"	"0x9440"
+		"gpu_level"	"0"
+	}
+	"603"
+	{
+		"name" "ATI Radeon HD 4870"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9440"
+		"maxdeviceid"	"0x9440"
+		"gpu_level"	"0"
+	}
+	"604"
+	{
+		"name" "ATI Radeon HD 4870"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9440"
+		"maxdeviceid"	"0x9440"
+		"gpu_level"	"0"
+	}
+	"605"
+	{
+		"name" "ATI Radeon HD 4870"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9440"
+		"maxdeviceid"	"0x9440"
+		"gpu_level"	"0"
+	}
+	"606"
+	{
+		"name" "ATI Radeon HD 4870 X2"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9441"
+		"maxdeviceid"	"0x9441"
+		"gpu_level"	"0"
+	}
+	"607"
+	{
+		"name" "ATI Radeon HD 4870 X2"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9441"
+		"maxdeviceid"	"0x9441"
+		"gpu_level"	"0"
+	}
+	"608"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"609"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"610"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"611"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"612"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"613"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"614"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"615"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"616"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"617"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"618"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"619"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"620"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"621"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"622"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"623"
+	{
+		"name" "ATI Radeon HD 5400 Series"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E5"
+		"maxdeviceid"	"0x68E5"
+		"gpu_level"	"0"
+	}
+	"624"
+	{
+		"name" "ATI Radeon HD 5450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E0"
+		"maxdeviceid"	"0x68E0"
+		"gpu_level"	"0"
+	}
+	"625"
+	{
+		"name" "ATI Radeon HD 5450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"626"
+	{
+		"name" "ATI Radeon HD 5470"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"627"
+	{
+		"name" "ATI Radeon HD 5470"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"628"
+	{
+		"name" "ATI Radeon HD 5470"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"629"
+	{
+		"name" "ATI Radeon HD 5470"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"630"
+	{
+		"name" "ATI Radeon HD 5470"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"631"
+	{
+		"name" "ATI Radeon HD 5490"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"632"
+	{
+		"name" "ATI Radeon HD 5490"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"633"
+	{
+		"name" "ATI Radeon HD 5490"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"634"
+	{
+		"name" "ATI Radeon HD 5530"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"635"
+	{
+		"name" "ATI Radeon HD 5530"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"636"
+	{
+		"name" "ATI Radeon HD 5570"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"637"
+	{
+		"name" "ATI Radeon HD 5630"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"638"
+	{
+		"name" "ATI Radeon HD 5630"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"639"
+	{
+		"name" "ATI Radeon HD 5630"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"640"
+	{
+		"name" "ATI Radeon HD 5630"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"641"
+	{
+		"name" "ATI Radeon HD 5690"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D8"
+		"maxdeviceid"	"0x68D8"
+		"gpu_level"	"0"
+	}
+	"642"
+	{
+		"name" "ATI Radeon HD 5690"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D8"
+		"maxdeviceid"	"0x68D8"
+		"gpu_level"	"0"
+	}
+	"643"
+	{
+		"name" "ATI Radeon HD 5730"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D8"
+		"maxdeviceid"	"0x68D8"
+		"gpu_level"	"0"
+	}
+	"644"
+	{
+		"name" "ATI Radeon HD 5730"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D8"
+		"maxdeviceid"	"0x68D8"
+		"gpu_level"	"0"
+	}
+	"645"
+	{
+		"name" "ATI Radeon HD 5730"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D8"
+		"maxdeviceid"	"0x68D8"
+		"gpu_level"	"0"
+	}
+	"646"
+	{
+		"name" "ATI Radeon HD 5850X2"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6899"
+		"maxdeviceid"	"0x6899"
+		"gpu_level"	"0"
+	}
+	"647"
+	{
+		"name" "ATI Radeon HD 6230"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"648"
+	{
+		"name" "ATI Radeon HD 6230"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"649"
+	{
+		"name" "ATI Radeon HD 6230"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"650"
+	{
+		"name" "ATI Radeon HD 6230"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"651"
+	{
+		"name" "ATI Radeon HD 6230"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"652"
+	{
+		"name" "ATI Radeon HD 6230"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"653"
+	{
+		"name" "ATI Radeon HD 6250"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"654"
+	{
+		"name" "ATI Radeon HD 6250"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"655"
+	{
+		"name" "ATI Radeon HD 6250"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"656"
+	{
+		"name" "ATI Radeon HD 6250"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"657"
+	{
+		"name" "ATI Radeon HD 6290"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"658"
+	{
+		"name" "ATI Radeon HD 6290"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"659"
+	{
+		"name" "ATI Radeon HD 6290"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"660"
+	{
+		"name" "ATI Radeon HD 6350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"661"
+	{
+		"name" "ATI Radeon HD 6350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"662"
+	{
+		"name" "ATI Radeon HD 6350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E5"
+		"maxdeviceid"	"0x68E5"
+		"gpu_level"	"0"
+	}
+	"663"
+	{
+		"name" "ATI Radeon HD 6350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"664"
+	{
+		"name" "ATI Radeon HD 6350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"665"
+	{
+		"name" "ATI Radeon HD 6350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"666"
+	{
+		"name" "ATI Radeon HD 6350 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"667"
+	{
+		"name" "ATI Radeon HD 6350 Graphics"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"668"
+	{
+		"name" "ATI Radeon HD 6390"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"669"
+	{
+		"name" "ATI Radeon HD 6390"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"670"
+	{
+		"name" "ATI Radeon HD 6390"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"671"
+	{
+		"name" "ATI Radeon HD 6490"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"672"
+	{
+		"name" "ATI Radeon HD 6490"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68DA"
+		"maxdeviceid"	"0x68DA"
+		"gpu_level"	"0"
+	}
+	"673"
+	{
+		"name" "ATI Radeon HD 6510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"674"
+	{
+		"name" "ATI Radeon HD 6510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"675"
+	{
+		"name" "ATI Radeon HD 6510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"676"
+	{
+		"name" "ATI Radeon HD 6510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"677"
+	{
+		"name" "ATI Radeon HD 6510"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"678"
+	{
+		"name" "ATI Radeon HD 6610"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"679"
+	{
+		"name" "ATI Radeon HD 6610"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68D9"
+		"maxdeviceid"	"0x68D9"
+		"gpu_level"	"0"
+	}
+	"680"
+	{
+		"name" "ATI Radeon HD 6750"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BE"
+		"maxdeviceid"	"0x68BE"
+		"gpu_level"	"0"
+	}
+	"681"
+	{
+		"name" "ATI Radeon HD 6750"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68BE"
+		"maxdeviceid"	"0x68BE"
+		"gpu_level"	"0"
+	}
+	"682"
+	{
+		"name" "ATI Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"683"
+	{
+		"name" "ATI Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"684"
+	{
+		"name" "ATI Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E5"
+		"maxdeviceid"	"0x68E5"
+		"gpu_level"	"0"
+	}
+	"685"
+	{
+		"name" "ATI Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"686"
+	{
+		"name" "ATI Radeon HD 7350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68F9"
+		"maxdeviceid"	"0x68F9"
+		"gpu_level"	"0"
+	}
+	"687"
+	{
+		"name" "ATI Radeon HD 8350"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"1"
+	}
+	"688"
+	{
+		"name" "VisionTek Radeon HD 5450"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x68E1"
+		"maxdeviceid"	"0x68E1"
+		"gpu_level"	"0"
+	}
+	"689"
+	{
+		"name" "ATI Radeon HD 7640G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9903"
+		"maxdeviceid"	"0x9903"
+		"gpu_level"	"0"
+	}
+	"690"
+	{
+		"name" "ATI Radeon HD 7640G"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x9913"
+		"maxdeviceid"	"0x9913"
+		"gpu_level"	"0"
+	}
+	"691"
+	{
+		"name" "ATI Radeon R7 360"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x665f"
+		"maxdeviceid"	"0x665f"
+		"gpu_level"	"1"
+	}
+	"692"
+	{
+		"name" "ATI Radeon R7 360"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0xaac0"
+		"maxdeviceid"	"0xaac0"
+		"gpu_level"	"1"
+	}
+	"693"
+	{
+		"name" "ATI Radeon RX 460/560D"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x67ef"
+		"maxdeviceid"	"0x67ef"
+		"gpu_level"	"1"
+	}
+	"694"
+	{
+		"name" "ATI Radeon RX 470/480/570/570X/580/580X/590"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0xaaf0"
+		"maxdeviceid"	"0xaaf0"
+		"gpu_level"	"2"
+	}
+	"695"
+	{
+		"name" "ATI Radeon RX 470/480/570/570X/580/580X/590"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x67df"
+		"maxdeviceid"	"0x67df"
+		"gpu_level"	"2"
+	}
+	"696"
+	{
+		"name" "ATI Radeon RX 580"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6fdf"
+		"maxdeviceid"	"0x6fdf"
+		"gpu_level"	"2"
+	}
+	"697"
+	{
+		"name" "ATI Radeon R9 285/380"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0xaad8"
+		"maxdeviceid"	"0xaad8"
+		"gpu_level"	"2"
+	}
+	"698"
+	{
+		"name" "ATI Radeon R9 380X"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6938"
+		"maxdeviceid"	"0x6938"
+		"gpu_level"	"2"
+	}
+	"699"
+	{
+		"name" "ATI Radeon R9 Nano/Fury/Fury X"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0xaae8"
+		"maxdeviceid"	"0xaae8"
+		"gpu_level"	"2"
+	}
+	"700"
+	{
+		"name" "ATI Radeon R9 Fury"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x7300"
+		"maxdeviceid"	"0x7300"
+		"gpu_level"	"3"
+	}
+	"701"
+	{
+		"name" "ATI Radeon Pro WX 9100"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6861"
+		"maxdeviceid"	"0x6861"
+		"gpu_level"	"3"
+	}
+	"702"
+	{
+		"name" "ATI Radeon Pro WX 8100/8200"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6868"
+		"maxdeviceid"	"0x6868"
+		"gpu_level"	"3"
+	}
+	"703"
+	{
+		"name" "ATI Radeon Pro SSG"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6862"
+		"maxdeviceid"	"0x6862"
+		"gpu_level"	"3"
+	}
+	"704"
+	{
+		"name" "ATI Radeon Vega Frontier Edition"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6863"
+		"maxdeviceid"	"0x6863"
+		"gpu_level"	"3"
+	}
+	"705"
+	{
+		"name" "ATI Radeon RX Vega 56/64"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x687f"
+		"maxdeviceid"	"0x687f"
+		"gpu_level"	"3"
+	}
+	"706"
+	{
+		"name" "ATI Radeon Pro Vega 56/64"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x6867"
+		"maxdeviceid"	"0x6867"
+		"gpu_level"	"3"
+	}
+	"707"
+	{
+		"name" "ATI Radeon VII"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0x66af"
+		"maxdeviceid"	"0x66af"
+		"gpu_level"	"3"
+	}
+	"708"
+	{
+		"name" "ATI Radeon VII"
+		"vendorid"	"0x1002"
+		"mindeviceid"	"0xab20"
+		"maxdeviceid"	"0xab20"
+		"gpu_level"	"3"
+	}
+	"709"
+	{
+		"name" "Intel Unknown"
+		"vendorid"	"0x8086"
+		"mindeviceid"	"0x0000"
+		"maxdeviceid"	"0xffff"
+		"gpu_level"	"0"
+	}
